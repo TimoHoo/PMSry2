@@ -25,7 +25,7 @@ Pudasjärven Metsästysseuran sääntömääräinen vuosikokous pidetään lauan
 - sääntöjen 9 § määräämät talvikokousasiat, katso [Seuran säännöt][7f1464d6]
 - osallistuminen yhteislupahakemukseen
 
-[7f1464d6]: /dokkarit/PMS_saannot
+[7f1464d6]: https://timohoo.github.io/PMSry2/dokkarit/PMS_saannot/ "Säännöt"
 
 ## Saalisilmoitus
 

@@ -24,7 +24,7 @@ Pudasjärven Metsästysseuran sääntömääräinen kesäkokous pidetään lauan
 
 ..kesäkokouksen sääntömääräiset asiat. Katso [Seuran säännöt][576e6664] 10 §
 
-  [576e6664]: /dokkarit/PMS_saannot "Säännöt"
+  [576e6664]: https://timohoo.github.io/PMSry2/dokkarit/PMS_saannot/ "Säännöt"
 
 ## Hirviseurue järjestäytyy
 
