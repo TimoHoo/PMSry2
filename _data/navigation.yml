@@ -1,12 +1,88 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Seura"
+    url: /Seura
+  - title: "Metsästys"
+    url: /Metsastys
+  - title: "Riistariihi"
+    url: /Riistariihi
+  - title: "Linkit"
+    url: /Linkit
+  - title: "Yhteystiedot"
+    url: /Yhteystiedot
+  - title: "Arkisto"
+    url: /Arkisto
+
+# main navigation
+menu:
+  - title: "Metsästysseura"
+    url: /Seura
+    children:
+      - title: "Kokoukset"
+        url: /Seura
+      - title: "Säännöt"
+        url: /Seura
+      - title: "Johtokunta"
+        url: /Yhteystiedot
+  - title: "Riistariihi"
+    url: /Riistariihi
+    children:
+      - title: "Omavalvontasuunnitelma"
+        url: /riihi/Riihi
+      - title: "Hinnasto"
+        url: /Riistariihi
+      - title: "Yhteystiedot"
+        url: /Yhteystiedot
+  - title: "Metsästys"
+    url: /Metsastys
+    children:
+      - title: "Metsästysalueet"
+        url: "https://goo.gl/oPVS4Y"
+      - title: "Oma Riista -palvelu"
+        url: "https://oma.riista.fi/#/login"
+      - title: "Rajoitukset"
+        url: /Metsastys
+
+# Seuran sekä sääntöjen sivupalkki
+seuramenu:
+  - title: "Seuran säännöt"
+    url: /Seura
+    children:
+      - title: "Pudasjärven Metsästysseura ry:n säännöt"
+        url: /dokkarit/PMS_saannot
+      - title: "Hirvenmetsästyksen säännöt"
+        url: /dokkarit/PMS_hirvenmetsastyssaannot
+      - title: "LIITE Riistariihen ohjesääntö"
+        url: /dokkarit/PMS_riistariihen_saannot
+      - title: "LIITE Hyvät metsästäjätavat"
+        url: /dokkarit/Hyvat_metsastajatavat
+      - title: "LIITE Kartta metsästysalueista"
+        url: /dokkarit/PMS_kartat
+  - title: "Toiminta"
+    url: /Seura
+  - title: "Seuran Yhteystiedot"
+    url: /Yhteystiedot
+
+# Riihi navigation
+riihimenu:
+  - title: "Riistariihen ohjeita"
+    url: /Riistariihi
+    children:
+      - title: "Omavalvontasuunnitelma"
+        url: /riihi/Riihi
+      - title: "Huoneen taulu"
+        url: /riihi/Huoneentaulu
+      - title: "Siivousohje"
+        url: /riihi/Siivous
+      - title: "Kasienpesuohje"
+        url: /riihi/Kasienpesu
+      - title: "Lämpötilaseuranta, Lomake"
+        url: /riihi/Lampotilat
+      - title: "Riistan alkupera, Lomake"
+        url: /riihi/Riistan_alkupera
+      - title: "Pintapuhtauden seuranta, Lomake"
+        url: /riihi/Pintapuhtaus
+      - title: "Lähdeluettelo"
+        url: /riihi/Lahteet
+  - title: "Etusivulle"
+    url: /

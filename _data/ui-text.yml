@@ -883,6 +883,49 @@ da: &DEFAULT_DA
 da-DK:
   <<: *DEFAULT_DA
 
+  # Finish - oma tekele Suomen kielelle
+  # -----------------
+fi: &DEFAULT_FI
+  page                       : "Sivu"
+  pagination_previous        : "Edellinen"
+  pagination_next            : "Seuraava"
+  breadcrumb_home_label      : "Etusivu"
+  breadcrumb_separator       : "/"
+  menu_label                 : "Avaa ja sulje valikko"
+  toc_label                  : "Tällä sivulla"
+  ext_link_label             : "Suora linkki"
+  less_than                  : "alle"
+  minute_read                : "min lukuaika"
+  share_on_label             : "Jaa tämä"
+  meta_label                 : "Mediatietoja"
+  tags_label                 : "Avainsanat:"
+  categories_label           : "Teemat:"
+  date_label                 : "Päivitetty:"
+  comments_label             : "Kommentoidaksesi täytä allaolevat kentät"
+  comments_title             : "Kommentit"
+  more_label                 : "Lisätietoja"
+  related_label              : "Katso myös nämä:"
+  follow_label               : "Seuraa:"
+  feed_label                 : "Täytä:"
+  powered_by                 : "Käyttövoimana"
+  website_label              : "Web osoite:"
+  email_label                : "Sähköposti:"
+  recent_posts               : "Uudet viestit"
+  undefined_wpm              : "Parametri 'words_per_minute' on määrittämättä tiedostossa _config.yml"
+  comment_form_info          : "Sähköpostiosoitettasi ei julkaista. Pakolliset kentät on merkitty:"
+  comment_form_comment_label : "Kommentti"
+  comment_form_md_info       : "Voit käyttää Markdown -muotoilumerkintöjä."
+  comment_form_name_label    : "Nimi"
+  comment_form_email_label   : "Sähköpostiosoite"
+  comment_form_website_label : "Web osoite (ei pakollinen)"
+  comment_btn_submit         : "Lähetä kommentti"
+  comment_btn_submitted      : "Lähetetty"
+  comment_success_msg        : "Kiitos kommentistasi! Se näytetään tällä sivulla heti hyväksynnän jälkeen."
+  comment_error_msg          : "Virhe, kommenttia lähetettäessä tuli virhe. Tarkista, että kaikki kentät on täytetty oikein ja yritä uudelleen."
+  loading_label              : "Ladataan..."
+fi-FI:
+  <<: *DEFAULT_FI
+
 # Another locale
 # --------------
 #
