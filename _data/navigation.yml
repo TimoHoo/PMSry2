@@ -84,5 +84,7 @@ riihimenu:
         url: /riihi/Pintapuhtaus
       - title: "Lähdeluettelo"
         url: /riihi/Lahteet
+      - title: "Hinnat"
+        url: /riihi/Hinnasto
   - title: "Etusivulle"
     url: /
