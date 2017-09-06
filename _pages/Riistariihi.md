@@ -35,7 +35,7 @@ Nyt seuran käytössä on koko metsästyskaudella riistalihan käsittelyyn sovel
 
 Seuran oman käytön lisäksi myös muut alueen metsästysseurat voivat vuokrata tilaa riistan lihan käsittelyyn.
 
-**Riistariihen käytön hinnasto** [Katso Hinnasto](/riihi/Hinnasto).
+**Riistariihen käytön hinnasto** [Katso Hinnasto](https://timohoo.github.io/PMSry2/riihi/Hinnasto).
 
 Riistariihi on Pudasjärven Metsästysseura ry:n toimesta rakennettu ja ylläpidetty riistalihan käsittelyn tarpeet ja hygieniamääräykset täyttävä pienteurastamo.
 
