@@ -897,7 +897,7 @@ fi: &DEFAULT_FI
   less_than                  : "alle"
   minute_read                : "min lukuaika"
   share_on_label             : "Jaa tämä"
-  meta_label                 : "Mediatietoja"
+  meta_label                 :
   tags_label                 : "Avainsanat:"
   categories_label           : "Teemat:"
   date_label                 : "Päivitetty:"

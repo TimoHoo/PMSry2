@@ -5,7 +5,7 @@ sitemap: true
 
 permalink: /Metsastys/
 header:
-  overlay_image: /assets/images/Maisema_banner4.png
+  overlay_image: /assets/images/Maisema_banner2.png
   caption: "Photo: Timo Hoo"
 sidebar:
      nav: "seuramenu"
@@ -48,7 +48,7 @@ kuvia:
                alt: "Kuva 9"
                title: "Missä se Rekku luuraa?"
 
-modified: 2017-08-10
+modified: 2017-09-06
 ---
 
 # Syksyn 2016 hirvenmetsästyksestä
