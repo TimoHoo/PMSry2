@@ -34,5 +34,5 @@ modified: 2017-09-06
   [linkki6]: http://www.metsastajaliitto.fi/ "Metsästäjäliitto"
   [linkki7]: http://www.tracker.fi "Tracker"
   [linkki8]: http://www.b-bark.com/?lang=fi "b-bark"
-  [linkki9]: http://www.ultrapoint.fi/tuoteryhmat/gps-tutkat "Ultrapoint"
+  [linkki9]: https://store.ultracom.fi/metsastys/ohjelmistotuotteet/ "Ultrapoint"
   [linkki10]: http://riista.fi/riistahallinto/alueet-ja-toimipisteet/oulu/ "Oulun riistakeskus"
