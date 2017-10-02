@@ -4,7 +4,7 @@ excerpt: "Riistariihen omavalvontasuunnitelma"
 sidebar:
     nav: "riihimenu"
 
-modified: 2017-02-12
+modified: 2018-10-02
 
 ---
 {% include toc icon="gears" title="Sisällysluettelo" %}
@@ -40,7 +40,8 @@ Omavalvonnan kirjanpitoa on säilytettävä vähintään kaksi vuotta.
 - **Käyttöönottovuosi:** 2006 riistateurastamona
 - **Teurastusmäärä** alle 100 kpl hirviä vuodessa
 - **Sijainti:** Pudasjärvi Kongasojantie 37
-![Sijainti]({{ "/assets/images/Screenshot from 2016-12-02 16:37:39.png" | absolute_url }})
+
+![Sijainti]({{ site.baseurl }}{% link /assets/images/Screenshot from 2016-12-02 16:37:39.png %})
 
 #  Vastuualueet
 
@@ -95,7 +96,8 @@ Alla olevaan pohjapiirrokseen on merkitty materiaalivirrat teurastamossa. Pohjap
 Pidä käsien iho eheänä ja terveenä käyttämällä suojakäsineitä tarpeen mukaan ja hoitamalla käsien ihoa työpäivän päätteeksi sopivalla voiteella.
 Pidä kyntesi siisteinä ja lyhyeksi leikattuina.  Käsikorujen, ja rakennekynsien käyttö teurastamon työssä on ehdottomasti kielletty.
 
-**Katso liite** [käsien pesun ohje](/riihi/Kasienpesu).
+**Katso liite** [käsien pesun ohje]({{ site.baseurl }}{% link _riihi/Kasienpesu.md %}).
+
 
 # Muut hygieniaohjeet
 
@@ -179,7 +181,7 @@ Lämpötilojen ylitys kirjataan seuranta­lomakkeelle. Korjaavat toimenpiteet ki
 
 Teurastamossa käytettävä talousvesi on peräisin kunnallisesta vesijohtoverkosta / vesiosuuskunta.
 Vesinäytteiden ottamisesta vastaa  
-[Oulunkaaren ympäristöpalvelut](http://www.pudasjarvi.fi/asukkaille/ymparisto-ja-luonto)
+[Oulunkaaren ympäristöpalvelut](https://www.pudasjarvi.fi/asukkaille/ympaeristoe-ja-elaeimet)
 
 ## Haittaeläinten torjunta
 
@@ -217,7 +219,7 @@ Teurastamon siivoamisesta vastaavat Riistariihen käyttäjät: teurastajat ja hi
 
 ### Tilojen puhdistusohje
 
-Katso liite [Siivousohjeet](/riihi/Siivous)
+Katso liite [Siivousohjeet]({{ site.baseurl }}{% link _riihi/Siivous.md %})
 
 ### Astioiden ja välineiden huolto
 
