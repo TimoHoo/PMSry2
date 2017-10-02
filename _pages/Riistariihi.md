@@ -25,7 +25,7 @@ gallery:
           alt: "Riihi 3"
           title: "Riistariihi kuva 3"
 
-modified: 2017-09-11
+modified: 2018-10-02
 
 ---
 ## Asianmukainen tila riistalihan käsittelyyn
@@ -35,9 +35,7 @@ Nyt seuran käytössä on riistalihan käsittelyyn soveltuvat tilat koko metsäs
 
 Seuran oman käytön lisäksi myös muut alueen metsästysseurat voivat vuokrata tilaa riistan lihan käsittelyyn.
 
-**Riistariihen käytön hinnasto** [Katso Hinnasto][8e3fe1b3].
-
-  [8e3fe1b3]: {{ "/assets/images/Hinnasto_LIITE.pdf" | absolute_url }} "Hinnasto"
+**Riistariihen käytön hinnasto** [Katso Hinnasto]({{ site.baseurl  }}{% link /assets/images/Hinnasto_LIITE.pdf %})
 
 Riistariihi on riistalihan käsittelyn tarpeet ja hygieniamääräykset täyttävä pienteurastamo. Sen on rakentanut Pudasjärven Metsästysseura ry, joka myös ylläpitää teurastamoa.
 
@@ -45,22 +43,27 @@ Riistariihi on riistalihan käsittelyn tarpeet ja hygieniamääräykset täyttä
 
 Pienteurastamon varustukseen kuuluvat mm:
 
-* Nylkytila, jossa voidaan suorittaa riistan lopputeurastus ja nahkominen
+**Nylkytila**
+ jossa voidaan suorittaa riistan lopputeurastus ja nahkominen
   * nosturi ja vaaka
   * riiputushenkarit
   * käsienpesupiste
-* Ruhojen riiputustila
+
+**Ruhojen riiputustila**
   * kattokuljetinkiskot
   * kylmiö riiputuslämpötilan ylläpitoon
-* Leikkaamo
+
+**Leikkaamo**
   * leikkauspöydät
   * lihamylly
   * vakuumikone
   * vaaka
   * pesukone
   * pesupisteet leikkaamon tarvikkeille ja käsille
-* Kylmiö valmiiden tuotteiden säilyttämiseen
-* Sosiaalitila
+
+**Kylmiö**
+valmiiden tuotteiden säilyttämiseen
+  * Sosiaalitila
   * taukotila
   * pienkeittiö
   * WC

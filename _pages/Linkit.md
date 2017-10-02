@@ -9,30 +9,22 @@ header:
   overlay_image: /assets/images/Maisema_banner2.png
   caption: "Photo: Timo Hoo"
 
-modified: 2017-09-06
+modified: 2018-10-02
 ---
 
 ## Paikalliset
 
-* [Pudasjärven riistanhoitoyhdistys ][linkki1]
-* [Riistakeskus Oulu][linkki10]
-* [SRVA-yhteyshenkilöt - Pudasjärvi][linkki2]
-* [Kipinän metsästysseura][linkki3]
+* <a target = "_blank" href = "http://pudasjarven.rhy.fi/" >Pudasjärven riistanhoitoyhdistys</a>
+* <a target = "_blank" href = "http://riista.fi/riistahallinto/alueet-ja-toimipisteet/oulu/">Oulun riistakeskus</a>
+* <a target = "_blank" href = "http://riista.fi/riistahallinto/yhteystiedot/yhteystietohaku/#area=250&rhy=271&org=RHY&type=SRVA_YHTEYSHENKILO">SRVA-yhteyshenkilöt - Pudasjärvi</a>
+* <a target = "_blank" href = "http://kipinanmetsastysseura.nettisivu.org/">Kipinän ms</a>
 
 ## Muut
 
-- [Suomen riistakeskus][linkki4]
-- [Oma riista, riistahallinnon asiointipalvelu][linkki5]
-- [Suomen Metsästäjäliitto ry][linkki6]
-- GPS paikantimet ja ohjelmat [Tracker][linkki7], [b-bark][linkki8], [Ultrapoint][linkki9]
-
-  [linkki1]: http://pudasjarven.rhy.fi/ "Pudasjärven rhy"
-  [linkki2]: http://riista.fi/riistahallinto/yhteystiedot/yhteystietohaku/#area=250&rhy=271&org=RHY&type=SRVA_YHTEYSHENKILO "SRVA"
-  [linkki3]: http://kipinanmetsastysseura.nettisivu.org/ "Kipinän ms"
-  [linkki4]: http://riista.fi/ "Riistakeskus"
-  [linkki5]: https://oma.riista.fi/ "Oma riista"
-  [linkki6]: http://www.metsastajaliitto.fi/ "Metsästäjäliitto"
-  [linkki7]: http://www.tracker.fi "Tracker"
-  [linkki8]: http://www.b-bark.com/?lang=fi "b-bark"
-  [linkki9]: https://store.ultracom.fi/metsastys/ohjelmistotuotteet/ "Ultrapoint"
-  [linkki10]: http://riista.fi/riistahallinto/alueet-ja-toimipisteet/oulu/ "Oulun riistakeskus"
+* <a target = "_blank" href = "http://riista.fi/">Riistakeskus</a>
+* <a target = "_blank" href = "https://oma.riista.fi/">Oma riista</a>
+* <a target = "_blank" href = "http://www.metsastajaliitto.fi/">Metsästäjäliitto</a>
+* GPS paikantimet ja ohjelmat
+  - <a target = "_blank" href = "http://www.tracker.fi">Tracker</a>
+  - <a target = "_blank" href = "http://www.b-bark.com/?lang=fi">b-bark</a>
+  - <a target = "_blank" href = "http://ultracom.fi/">Ultrapoint</a>

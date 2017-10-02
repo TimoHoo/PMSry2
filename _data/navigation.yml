@@ -30,7 +30,7 @@ menu:
       - title: "Omavalvontasuunnitelma"
         url: /riihi/Riihi
       - title: "Hinnasto"
-        url: /Riistariihi
+        url: /riihi/Hinnasto
       - title: "Yhteystiedot"
         url: /Yhteystiedot
   - title: "Metsästys"
