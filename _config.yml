@@ -180,7 +180,8 @@ timezone: Europe/Helsinki # http://en.wikipedia.org/wiki/List_of_tz_database_tim
 
 
 # Plugins
-gems:
+# old name = gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -194,7 +195,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
 
 # Archives
 #  Type
