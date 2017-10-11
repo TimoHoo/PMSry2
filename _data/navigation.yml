@@ -38,8 +38,8 @@ menu:
     children:
       - title: "Metsästysalueet"
         url: "https://goo.gl/oPVS4Y"
-      - title: "Oma Riista -palvelu"
-        url: "https://oma.riista.fi/#/login"
+      - title: "Oma riista -palvelu"
+        url:  /Omariista
       - title: "Rajoitukset"
         url: /Metsastys
 

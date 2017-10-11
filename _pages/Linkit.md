@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/Maisema_banner2.png
   caption: "Photo: Timo Hoo"
 
-modified: 2018-10-02
+modified: 2017-10-02
 ---
 
 ## Paikalliset
