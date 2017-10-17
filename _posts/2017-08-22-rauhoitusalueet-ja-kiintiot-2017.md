@@ -5,6 +5,8 @@ date: "2017-08-22"
 header:
   teaser:
 
+permalink: /Rauhoitukset2017/
+
 categories:
     - seura
     - kokous
@@ -13,7 +15,7 @@ tags:
     - seura
     - jäsenet
 
-modified: 2017-08-22
+modified: 2017-10-17
 ---
 # Heikot metsäkanalintukannat seuran alueilla
 
@@ -29,10 +31,10 @@ Hirvikanta  on  vähintään edellisen vuoden tasolla ja suunta on ollut ylösp�
 ## Metsästyskiintiöt ja rauhoitukset
 
 Pudasjärven Metsästysseuran metsästysalueilla päätettiin rauhoittaa metsäkauris kokonaan 2017-2018.
-Samoin päätettiin jatkaa Tuulisalmen alueen rauhoitusta kokonaan pienriistan metsästykseltä. Rauhoitettava alue on merkitty Petäjäkankaantielle Metsästys Kielletty -kylteillä.
+Samoin päätettiin jatkaa Tuulisalmen alueen rauhoitusta kokonaan pienriistan metsästykseltä. Rauhoitettava alue on merkitty Petäjäkankaantielle "Metsästys Kielletty" -kylteillä.
 Rauhoitus ei koske hirvenmetsästystä eikä sorsastusta.
 
-Metson ja koppelon metsästyksen osalta seuran jäsenille on määritetty seuraavat kiintiöt:
+Metsäkanalintujen sekä metson ja koppelon metsästyksen osalta seuran jäsenille on määritetty seuraavat kiintiöt:
 - max yksi metso tai koppelo
 - yhteensä  saa metsästää enintään kolme metsäkanalintua seuran mailla 2017.
 
