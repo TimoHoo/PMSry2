@@ -10,7 +10,7 @@ header:
   overlay_image: /assets/images/Maisema_banner2.png
   caption: "Photo: Timo Hoo"
 
-modified: 2017-10-17
+modified: 2017-12-17
 ---
 
 {% include base_path %}
@@ -23,7 +23,7 @@ modified: 2017-10-17
 
 Ahonen Eero|  040-530 2536| <eero.ahonen@pp.inet.fi>
 Haanela Teuvo| 0400507277| <teuvo.haanela@gmail.com>
-Märsy Timo|  0405625651|  <timo.marsy@pp1.inet.fi>
+Märsy Timo|  0405625651|  <timo.marsy60@gmail.com>
 siht: Nissi Hannu|  040-4146118|  <hannu.nissi@livo.fi>
 Pihlaja Paavo| 0500383264| <paavo.pihlaja@gmail.com>
 pj: Timonen Pentti|  0504552070|  <pentimon@dnainternet.net>
@@ -31,6 +31,6 @@ Vähäkuopus Pasi|  0400206765|  <kivari123@gmail.com>
 
 ## Jaokset:
 
-Ampumajaos| Märsy Timo|  0405625651|  <timo.marsy@pp1.inet.fi>
-Riistanhoitojaos| Märsy Timo|  0405625651|  <timo.marsy@pp1.inet.fi>
+Ampumajaos| Märsy Timo|  0405625651|  <timo.marsy60@gmail.com>
+Riistanhoitojaos| Märsy Timo|  0405625651|  <timo.marsy60@gmail.com>
 Riistariihijaos| Nissi Hannu|  040-4146118|  <hannu.nissi@livo.fi>
