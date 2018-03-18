@@ -7,10 +7,10 @@ permalink: /Yhteystiedot/
 sitemap: true
 
 header:
-  overlay_image: /assets/images/Maisema_banner2.png
-  caption: "Photo: Timo Hoo"
+  overlay_image: /assets/images/Maisema_banner3.png
+  caption: "Kuva: Timo Hoo"
 
-modified: 2017-12-17
+modified: 2018-03-18
 ---
 
 {% include base_path %}
