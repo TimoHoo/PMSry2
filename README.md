@@ -29,4 +29,4 @@
 
 The MIT License (MIT)
 
-Copyright (c) 2017 Timo Hoo
+Copyright (c) 2018 Timo Hoo
