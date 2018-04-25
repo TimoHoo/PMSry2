@@ -6,10 +6,10 @@ sitemap: true
 permalink: /Omariista/
 
 header:
-  overlay_image: /assets/images/Maisema_banner3.png
+  overlay_image: /assets/images/Maisema_banner4.png
   caption: "Kuva: Timo Hoo"
 
-modified: 2018-03-18
+modified: 2018-04-25
 ---
 
 ![Oma riista logo]({{ "/assets/images/Oma-riista-logo7.jpg" | absolute_url }})

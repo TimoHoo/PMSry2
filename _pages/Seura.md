@@ -7,12 +7,12 @@ sitemap: true
 permalink: /Seura/
 
 header:
-  overlay_image: /assets/images/Maisema_banner3.png
+  overlay_image: /assets/images/Maisema_banner4.png
   caption: "Kuva: Timo Hoo"
 sidebar:
    nav: "seuramenu"
 
-modified: 2018-03-18
+modified: 2018-04-25
 ---
 # Seuran esittely
 
