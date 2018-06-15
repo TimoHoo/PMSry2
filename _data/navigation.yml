@@ -13,7 +13,7 @@ main:
   - title: "Arkisto"
     url: /Arkisto
 
-# main navigation
+# main navigation menu
 menu:
   - title: "Metsästysseura"
     url: /Seura
@@ -52,7 +52,7 @@ seuramenu:
         url: /dokkarit/PMS_saannot
       - title: "Hirvenmetsästyksen säännöt"
         url: /dokkarit/PMS_hirvenmetsastyssaannot
-      - title: "LIITE Riistariihen ohjesääntö"
+      - title: "LIITE Riistariihen käyttö- ja hallintasääntö"
         url: /dokkarit/PMS_riistariihen_saannot
       - title: "LIITE Hyvät metsästäjätavat"
         url: /dokkarit/Hyvat_metsastajatavat
@@ -70,11 +70,11 @@ riihimenu:
     children:
       - title: "Omavalvontasuunnitelma"
         url: /riihi/Riihi
-      - title: "Huoneen taulu"
+      - title: "Huoneentaulu"
         url: /riihi/Huoneentaulu
       - title: "Siivousohje"
         url: /riihi/Siivous
-      - title: "Kasienpesuohje"
+      - title: "Käsienpesuohje"
         url: /riihi/Kasienpesu
       - title: "Lämpötilaseuranta, Lomake"
         url: /riihi/Lampotilat
@@ -84,7 +84,7 @@ riihimenu:
         url: /riihi/Pintapuhtaus
       - title: "Lähdeluettelo"
         url: /riihi/Lahteet
-      - title: "Hinnat"
+      - title: "Hinnasto"
         url: /riihi/Hinnasto
   - title: "Etusivulle"
     url: /

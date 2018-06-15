@@ -1,8 +1,7 @@
 
-# [Pudasjärven Metsästysseura ry kotisivut - versio2](https://timohoo.github.io/PMSry2/)
+# [Pudasjärven Metsästysseura ry kotisivut](https://timohoo.github.io/PMSry2/)
 
 :smile:
-:sparkles:
 
 ## Credits:
 
