@@ -1,8 +1,7 @@
 
-# [Pudasjärven Metsästysseura ry kotisivut - versio2](https://timohoo.github.io/PMSry2/)
+# [Pudasjärven Metsästysseura ry kotisivut](https://timohoo.github.io/PMSry2/)
 
 :smile:
-:sparkles:
 
 ## Credits:
 
@@ -29,4 +28,4 @@
 
 The MIT License (MIT)
 
-Copyright (c) 2017 Timo Hoo
+Copyright (c) 2018 Timo Hoo
