@@ -13,7 +13,7 @@ main:
   - title: "Arkisto"
     url: /Arkisto
 
-# main navigation
+# main navigation menu
 menu:
   - title: "Metsästysseura"
     url: /Seura
