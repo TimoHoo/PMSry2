@@ -13,11 +13,11 @@ categories:
 tags:
     - seura
 
-modified: 2018-07-29
+modified: 2018-08-03
 ---
-## Taustaa
+## Hirvenmetsästyksen johtaja huolehtii seurueen metsästyksen järjestelyistä..
 
-Hirvenmetsästyksen johtajan tulee huolehtia koko seurueen metsästyksen järjestelyistä, erityisesti metsästyksen turvallisesta toteutuksesta.
+.. ja erityisesti metsästyksen turvallisesta toteutuksesta.
 
 ![Kuva]({{ "/assets/images/PMS2016_width768/IMG_20161029_155638.jpg" | absolute_url }}){: .align-center}
 
