@@ -5,6 +5,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+# Fix into github Authentication error: "GitHub Metadata: No GitHub API authentication could be found."
+github: [metadata]
+
 # Site Settings
 locale                   : "fi"
 title                    : "Pudasjärven Metsästysseura ry"
