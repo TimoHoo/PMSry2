@@ -6,10 +6,10 @@ sitemap: true
 permalink: /Linkit/
 
 header:
-  overlay_image: /assets/images/Maisema_banner.png
+  overlay_image: /assets/images/Maisema_banner2.png
   caption: "Kuva: Timo Hoo"
 
-modified: 2018-06-15
+modified: 2018-08-17
 ---
 
 ## Paikalliset

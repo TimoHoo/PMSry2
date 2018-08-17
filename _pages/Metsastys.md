@@ -5,12 +5,12 @@ sitemap: true
 
 permalink: /Metsastys/
 header:
-  overlay_image: /assets/images/Maisema_banner.png
+  overlay_image: /assets/images/Maisema_banner2.png
   caption: "Kuva: Timo Hoo"
 sidebar:
      nav: "seuramenu"
 
-modified: 2018-06-15
+modified: 2018-08-17
 
 gallery:
   - url: /assets/images/PMS2016_width768/width768/IMG_20171014_145326.jpg
