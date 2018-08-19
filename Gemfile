@@ -17,21 +17,23 @@ gem 'rouge'
 # gem "jekyll", "~> 3.5"
 # gem "minimal-mistakes-jekyll"
 
-# The following plugins are automatically loaded by the theme-gem:
-#gem "jekyll-paginate"
-#gem "jekyll-sitemap"
-#gem "jekyll-gist"
-#gem "jekyll-feed"
-#gem "jemoji"
-#gem "jekyll-data"
-#
-# If you have any other plugins, put them here!
+# The following plugins are automatically loaded by the theme-gem, IF USING gem "minimal-mistakes-jekyll":
+   #gem "jekyll-paginate"
+   #gem "jekyll-sitemap"
+   #gem "jekyll-gist"
+   #gem "jekyll-feed"
+   #gem "jemoji"
+   #gem "jekyll-data"
+
+# gem "jekyll-remote-theme"
+
+# If you have any plugins, put them here!
 group :jekyll_plugins do
+  #gem "jekyll-remote-theme"
   gem "jekyll-paginate"
   gem "jekyll-sitemap"
   gem "jekyll-gist"
   gem "jekyll-feed"
   gem "jemoji"
   gem "jekyll-data"
-  #gem 'github-linguist'
 end
