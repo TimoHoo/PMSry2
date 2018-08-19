@@ -3,44 +3,38 @@ title: "Pudasjärven Metsästysseura ry metsästysalueet"
 excerpt: "PMS ry metsästysalueet"
 sidebar:
     nav: "seuramenu"
-modified: 2017-08-22
+modified: 2018-08-19
 ---
-Kartta Pudasjärven Metsästysseura ry:n metsästysalueista löytyy sähköisenä osoitteesta:
+Kartat Pudasjärven Metsästysseura ry:n metsästysalueista löytyvät sähköisenä nettiselaimella osoitteesta:
 
-<https://goo.gl/oPVS4Y>
+<a target = "_blank" href = "https://goo.gl/oPVS4Y"> https://goo.gl/oPVS4Y </a>
 
-QR koodi kartan htpp:\ -osoitteeseen:
+QR koodi kartan htpps:// -osoitteeseen:
 
-![QR koodi kartan htpp:\ -osoitteeseen]({{ "/assets/images/PMS_2015_QR_code.png" | absolute_url }})
+![QR koodi kartan htpps:// -osoitteeseen]({{ "/assets/images/PMS_2015_QR_code.png" | absolute_url }})
 
 ## Oma riista -palvelu
-Syksystä 2016 alkaen kartat Pudasjärven Metsästysseura ry:n metsästysalueista päivitetään sähköisenä uuteen Suomen riistakeskuksen ylläpitämään ”Oma riista”-palveluun.
+
+Kartat Pudasjärven Metsästysseura ry:n metsästysalueista päivitetään sähköisenä Suomen riistakeskuksen ylläpitämään ”Oma riista”-palveluun. Sieltä ne siirretään seuran nettisivuille.
 Tämä palvelu löytyy osoitteesta:
-           <https://oma.riista.fi/#/login>
+
+<a target = "_blank" href = "https://oma.riista.fi/#/login"> oma.riista.fi/#/login</a>
 
 ![Oma riista logo]({{ "/assets/images/Oma-riista-logo7.jpg" | absolute_url }})
 
 Ohjeita palvelun käyttöönottoon ja käyttämiseen löytyy osoitteesta:
-<http://riista.fi/riistahallinto/sahkoinen-asiointi/>
 
-Oma riista -yhteensopivia koiratutka- / karttapalveluja on useita mm:
+<a target = "_blank" href = "https://riista.fi/riistahallinto/sahkoinen-asiointi/"> https://riista.fi/riistahallinto/sahkoinen-asiointi/ </a>
 
-- [b-bark,][b5e60e3c]
-- [reviiri.org,][b643678abc]
-- [Tracker.fi,][b6434678b2]
-- [Ultrapoint.fi,][b63578v2]
+## Seuran alueiden oma.riista -tunnukset
 
- jne...
+Seuran Oma.riista -alueiden tunnukset löytvät oma.riista -palvelusta <a target = "_blank" href = "https://oma.riista.fi/"> htpps://oma.riista.fi/</a> Kirjaudu sisään seuran jäsenenä tai metsästyksenjohtajana ja katso kohta "Alueet".
 
-  [b5e60e3c]: http://www.b-bark.com/?lang=fi "Linkki kotisivulle"
-  [b643678abc]: http://www.reviiri.org "Linkki"
-  [b6434678b2]: http://www.tracker.fi "Linkki"
-  [b63578v2]: http://www.ultrapoint.fi "Linkki"
+Oma.riista -alueiden tunnukset koiratutka- ja karttapalveluihin ovat:
 
-
-Seuran Oma.riista -alueiden tunnukset em karttapalveluihin:
-- PMS hirvialue 2017, Alueen tunnus = CYXVB5MEND
-- PMS pienriista 2017, Alueen tunnus = 95WZ77LQ9C
-- Pudasjärven valtionmaat 2017, Alueen tunnus = 75FWQFMQ3P
+PMS pienriista 2018 | Tunnus = 95WZ77LQ9C
+Pudasjärven valtionmaat 2018| Tunnus = 75FWQFMQ3P
+PMS hirvialue (2018 lupakartta)| Tunnus = 6VZXLQX45W
+PMS hirvialue (Vaihtomaat)| Tunnus = 65DHUH4SSP
 
 Pudasjärven Metsästysseuran yhteyshenkilö ”Oma riista” -palveluun on Timo Hostikka. Ilmoittakaa metsästäjänumero Timolle, niin voitte liittyä palveluun seuran jäsenenä --> <timo.hostikka@gmail.com>

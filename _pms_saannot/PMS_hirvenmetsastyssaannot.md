@@ -3,12 +3,15 @@ title: "Pudasjärven Metsästysseura ry:n Hirvenmetsästyssääntö"
 excerpt: "Pudasjärven Metsästysseura ry hirvenmetsästyssääntö"
 sidebar:
     nav: "seuramenu"
-modified: 2017-08-22
+
+modified: 2018-08-19
 ---
 
 ## Yleistä
 
-1. Metsästyksen suunnittelussa ja toteutuksessa noudatetaan voimassa olevaa lainsäädäntöä, hyviä metsästystapoja ja metsästysseuran sääntöjä sekä naapuriseurojen kanssa tehtyjä sopimuksia. Katso LIITE Hyvät metsästäjätavat.
+1. Metsästyksen suunnittelussa ja toteutuksessa noudatetaan voimassa olevaa lainsäädäntöä, hyviä metsästystapoja ja metsästysseuran sääntöjä sekä naapuriseurojen kanssa tehtyjä sopimuksia.
+- Katso LIITE Hyvät metsästäjätavat.
+
 2. Kaadettavaksi anottavien hirvien lukumäärä sopeutetaan alueen hirvikannan vuosituottoon, hirvitutkimuksen ja luvanmyöntäjän suosituksiin sekä maa- ja metsätalouden ja liikenteen vahinkomääriin.
 3. Metsästyksessä noudatetaan tasavertaisuusperiaatetta eli hirviseurueen kaikilla jäsenillä on yhtäläiset oikeudet ja velvollisuudet, ellei seuran säännöissä toisin määrätä.
 4. Seuran hirvenmetsästyssääntö käsitellään ja vahvistetaan vuosittain seuran kesäkokouksessa ja se saatetaan kaikkien hirviseurueen jäsenten tietoon ennen metsästykseen ryhtymistä.
@@ -16,7 +19,9 @@ modified: 2017-08-22
 ## Metsästysmaat ja yhteistoiminta
 
 1. Seuran metsästysmaiden vuokrauksesta vastaa johtokunta tai sen erikseen valtuuttamat seuran jäsenet.
-2. Metsästysalueista pidetään ajan tasalla olevaa kartastoa, joka on hirviseurueen käytössä. Katso LIITE Kartta metsästysalueista
+2. Metsästysalueista pidetään ajan tasalla olevaa kartastoa, joka on hirviseurueen käytössä.
+- Katso LIITE Kartta metsästysalueista
+
 3. Seura voi erillispäätöksin ja erillissopimuksin kuulua hirvenmetsästyksen ns. yhteislupaan.
 
 ## Kaatoluvat
@@ -29,7 +34,9 @@ modified: 2017-08-22
 1. Hirvenmetsästykseen osallistumaan oikeutettuja ovat seuran jäsenet.
 2. Seuran hirviseurue muodostetaan seuran yleisen kesäkokouksen yhteydessä.
 3. Hirviseurueeseen liittyminen tapahtuu ilmoittautumalla seurueen muodostamiskokouksessa tai ilmoittamalla siitä metsästyksenjohtajalle elokuun loppuun mennessä.
-4. Hirviseurueen kaikki jako-osuuden muodostavat jäsenet sitoutuvat noudattamaan Riistariihen käyttö- ja hallintasääntöä. Katso LIITE Riistariihen käyttö- ja hallintasääntö.
+4. Hirviseurueen kaikki jako-osuuden muodostavat jäsenet sitoutuvat noudattamaan Riistariihen käyttö- ja hallintasääntöä.
+- Katso LIITE Riistariihen käyttö- ja hallintasääntö.
+
 5. Ampujana metsästykseen osallistuvalla jäsenellä tulee olla suoritettuna voimassa oleva ampumakoe.
 
 ## Metsästyksen johto ja muu tehtävänjako
@@ -49,8 +56,8 @@ modified: 2017-08-22
 
 1. Hirviseurueen jäsenten velvollisuudesta osallistua metsästykseen ns. yleisinä metsästyspäivinä päätetään hirviseurueen vuosittaisessa muodostuskokouksessa. Seurueen jäsenet ovat velvollisia osallistumaan myös metsästykseen liittyviin oheistoimintoihin.
 2. Metsästykseen liittyviksi oheistoiminnoiksi näissä säännöissä luetaan saaliinkäsittelyyn liittyvät toimet, välinehuolto, saaliinkäsittelypaikan puhtaanapito ja hoito, passipaikkahuolto ampumalavoineen sekä peijaiset valmisteluineen.
-3. Seuraamuksettomia vapaapäiviä yleisiksi sovituista metsästyspäivistä jäsenellä on muodostumiskokouksen mukaisesti metsästyskauden aikana 2 päivää. Ylimeneviä päiviä jäsen voi korvata metsästysseurueen erikseen yhteisesti sovituilla tavoilla (esim. osallistumalla tietyllä tuntimäärällä lihanleikkaukseen, osallistumalla viikolla metsästykseen, jolloin on saatu hirvi kaadetuksi jne. ).
-4. Seurueen jäsenten metsästyksestä poissaolopäiviltä, jotka ylittävät 3.kohdan kiintiön, jäsen maksaa 15 € /  poissaolopäivä tai korvaa poissaolonsa järjestämällä tilalle toisen henkilön. Tuuraajan on oltava metsästysseuran jäsen tai hänen lähiomaisensa. Puolelta päivältä korvaus on 8 €.
+3. Vapaapäiviä yleisiksi sovituista metsästyspäivistä jäsenellä on muodostumiskokouksen mukaisesti metsästyskauden aikana 2 päivää. Ylimeneviä päiviä jäsen voi korvata metsästysseurueen erikseen yhteisesti sovituilla tavoilla (esim. osallistumalla tietyllä tuntimäärällä lihanleikkaukseen, osallistumalla viikolla metsästykseen, jolloin on saatu hirvi kaadetuksi jne. ).
+4. Seurueen jäsenten metsästyksestä poissaolopäiviltä, jotka ylittävät 3. kohdan kiintiön, jäsen maksaa 0 € /  poissaolopäivä tai korvaa poissaolonsa järjestämällä tilalle toisen henkilön. Tuuraajan on oltava metsästysseuran jäsen tai hänen lähiomaisensa.
 
 ## Ampumataito ja saaliinkäsittely
 
@@ -123,16 +130,16 @@ modified: 2017-08-22
 
 1. Jokainen hirviseurueen jäsen ja metsästysvieras on velvollinen perehtymään vuosittain vahvistettavaan metsästyssääntöön ja noudattamaan sitä.
 
+## LIITE Hyvät metsästäjätavat
 
+## LIITE Kartta metsästysalueista
 
-# LIITE Hyvät metsästäjätavat
+## LIITE Riistariihen käyttö- ja hallintasääntö
 
-# LIITE Kartta metsästysalueista
+## Metsästyssäännön vuosittaiset vahvistuspäivät:
 
-# LIITE Riistariihen käyttö- ja hallintasääntö
-
-Metsästyssäännön vuosittaiset vahvistuspäivät:
-
->< 20.  /  2. 2016 >
+>< 20.2. 2016 >
 >
->< 19.  /  8. 2017 >
+>< 19.8. 2017 >
+>
+>< 18.8. 2018 >
