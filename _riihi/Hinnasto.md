@@ -1,10 +1,10 @@
 ---
-title: "Riistariihen vuokraushinnasto 2017"
+title: "Riistariihen vuokraushinnasto"
 excerpt: "Riistariihen vuokraushinnasto"
 sidebar:
     nav: "riihimenu"
 
-modified: 2017-09-06
+modified: 2018-08-20
 
 ---
 
