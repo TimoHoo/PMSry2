@@ -40,8 +40,8 @@ menu:
         url: "https://goo.gl/oPVS4Y"
       - title: "Oma riista -palvelu"
         url:  /Omariista
-      - title: "Rajoitukset"
-        url: /Rauhoitukset2017
+      - title: "Rauhoitukset 2018"
+        url: /Rauhoitukset2018
 
 # Seuran sekä sääntöjen sivupalkki
 seuramenu:
