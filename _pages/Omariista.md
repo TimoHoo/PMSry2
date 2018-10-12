@@ -6,10 +6,10 @@ sitemap: true
 permalink: /Omariista/
 
 header:
-  overlay_image: /assets/images/Maisema_banner3.png
+  overlay_image: /assets/images/Maisema_banner2.png
   caption: "Kuva: Timo Hoo"
 
-modified: 2018-08-17
+modified: 2018-10-12
 ---
 
 ![Oma riista logo]({{ "/assets/images/Oma-riista-logo7.jpg" | absolute_url }})
@@ -26,7 +26,7 @@ Oma riista -palvelu löytyy verkko-osoitteesta:
 
 ## Mobiilikäyttö
 
-Metsästäjä voi verkkopalvelun lisäksi käyttää saalistietojen ja havaintojen kirjaamiseen maastosta myös Oma riista -mobiilisovelluksia (Android, Windows Phone, iOS).
+Metsästäjä voi verkkopalvelun lisäksi käyttää saalistietojen ja havaintojen kirjaamiseen maastosta myös Oma riista -mobiilisovelluksia (Android, iOS).
 Kun metsästäjä maksaa riistanhoitomaksun, päivittyy tieto viikon päästä myös Oma riista -palveluun. Näin sähköinen metsästyskortti kulkee aina metsästäjän mukana älypuhelimessa.
 
 ## Ohjeita
