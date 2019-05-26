@@ -25,15 +25,17 @@ gallery:
           alt: "Riihi 3"
           title: "Riistariihi kuva 3"
 
-modified: 2019-05-25
+modified: 2019-05-26
 
 ---
 ## Asianmukainen tila riistalihan käsittelyyn
 
-Riistariihi on nykyaikainen ja asianmukainen tila riistalihan käsittelyyn. Aiemmin seuran riistan ja hirvenlihan käsittely tapahtui ulkona luonnon ehdoilla tai tilapäistiloissa. Lämpiminä syksyinä haasteena oli lihan pilaantumisvaara ja kovilla pakkasilla jäätyminen.
+Riistariihi on asianmukainen tila riistalihan käsittelyyn. Aiemmin seuran riistan ja hirvenlihan käsittely tapahtui ulkosalla luonnon ehdoilla ja tilapäisissä tiloissa. Lämpiminä syksyinä haasteena oli lihan pilaantumisvaara ja kovilla pakkasilla uhkasi jäätyminen.
 Nyt seuran käytössä on riistalihan käsittelyyn soveltuvat tilat koko metsästyskaudelle.
 
-Seuran oman käytön lisäksi myös muut alueen metsästysseurat voivat vuokrata tilaa riistan lihan käsittelyyn.
+Seuran oman käytön lisäksi myös muut alueen metsästysseurat voivat vuokrata tilaa riistalihan käsittelyyn.
+
+{% include gallery id="gallery" caption="Riistariihen kuvia (Avaa kuva klikkaamalla)" %}
 
 **Riistariihen käytön hinnasto** [Katso Hinnasto]({{ site.baseurl  }}{% link /assets/images/Hinnasto_LIITE.pdf %})
 
@@ -41,7 +43,7 @@ Riistariihi on riistalihan käsittelyn tarpeet ja hygieniamääräykset täyttä
 
 ## Varustus
 
-Pienteurastamon varustukseen kuuluvat mm:
+Pienteurastamon varustukseen kuuluvat:
 
 **Nylkytila**
  jossa voidaan suorittaa riistan lopputeurastus ja nahkominen
@@ -50,10 +52,12 @@ Pienteurastamon varustukseen kuuluvat mm:
   * käsienpesupiste
 
 **Ruhojen riiputustila**
+ jossa riistaliha / ruhot voidaan riiputtaa ennen niiden leikkaamista
   * kattokuljetinkiskot
   * kylmiö riiputuslämpötilan ylläpitoon
 
 **Leikkaamo**
+ jossa suoritetaan ruhojen paloittelu ja jatkokäsittely
   * leikkauspöydät
   * lihamylly
   * vakuumikone
@@ -62,12 +66,12 @@ Pienteurastamon varustukseen kuuluvat mm:
   * pesupisteet leikkaamon tarvikkeille ja käsille
 
 **Kylmiö**
-valmiiden tuotteiden säilyttämiseen
-  * Sosiaalitila
+ on tarkoitettu valmiiden tuotteiden säilyttämiseen
+
+ **Lisäksi** Riistariihessä on
+  * sosiaalitila
   * taukotila
   * pienkeittiö
   * WC
 
 <link href="/favicon.ico" rel="icon" type="image/x-icon" />
-
-{% include gallery id="gallery" caption="Riistariihen kuvia (Avaa kuva klikkaamalla)" %}
