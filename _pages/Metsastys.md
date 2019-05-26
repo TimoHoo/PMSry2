@@ -1,5 +1,5 @@
 ---
-title: "Metsästys"
+title: "Metsästystä"
 excerpt: ".. sekä riistanhoito- ja luonnonsuojelutoimintaa."
 sitemap: true
 

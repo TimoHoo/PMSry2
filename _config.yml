@@ -11,18 +11,17 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 # theme                  : "minimal-mistakes-jekyll" //this is when using gems method
 # remote_theme           : "mmistakes/minimal-mistakes" // this is possible with github pages
-# Current setup 18.8.2018 = "Update Files Manually"
+# Current setup 26.5.2019 = "Update Files Manually"
 
 # Fix into github Authentication error: "GitHub Metadata: No GitHub API authentication could be found."
 github: [metadata]
 
-# update theme version to 4.12.1 2018-08-17
-# remote_theme: "mmistakes/minimal-mistakes@4.12.1"
-minimal_mistakes_skin    : "mint" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+# update theme version to 4.16.3 2019-05-26
+# remote_theme: "mmistakes/minimal-mistakes@4.16.3"
+minimal_mistakes_skin    : "dirt" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "fi"
-#locale                   : "en" (default)
+locale                   : "fi" # "en" (default)
 title                    : "Pudasjärven Metsästysseura ry"
 title_separator          : "-"
 name                     : "Timo Hoo"
@@ -31,6 +30,8 @@ url                      : "https://TimoHoo.github.io" # the base hostname & pro
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "TimoHoo/PMSry2" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   :  "/assets/images/Puu_500_300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 100
 comments:
@@ -145,6 +146,27 @@ author:
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
+# Site Footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "http://pms.dy.fi"
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      # url:
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      # url:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url:
 
 # Reading Files
 include:

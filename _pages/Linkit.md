@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/Maisema_banner4.png
   caption: "Kuva: Timo Hoo"
 
-modified: 2019-05-25
+modified: 2019-05-26
 ---
 
 ## Paikalliset
@@ -18,6 +18,7 @@ modified: 2019-05-25
 * <a target = "_blank" href = "https://riista.fi/riistahallinto/alueet-ja-toimipisteet/oulu/">Suomen riistakeskus, Oulun alue</a>
 * <a target = "_blank" href = "http://kipinanmetsastysseura.nettisivu.org/">Kipinän ms</a>
 * <a target = "_blank" href = "https://www.suoherra.fi/">Suoherran erätarinoita</a>
+* <a target = "_blank" href = "http://wwwi2.ymparisto.fi/i2/61/l611331001y/wqfi.html">Vedenkorkeus, Pudasjärvi Tuulisalmi</a>
 
 ## Muut
 
@@ -26,6 +27,6 @@ modified: 2019-05-25
 * <a target = "_blank" href = "https://oma.riista.fi/">Oma riista</a>
 * <a target = "_blank" href = "https://www.metsastajaliitto.fi/">Metsästäjäliitto</a>
 * GPS paikantimet ja ohjelmat
-  - <a target = "_blank" href = "https://www.tracker.fi">Tracker</a>
+  - <a target = "_blank" href = "https://www.tracker.fi/">Tracker</a>
   - <a target = "_blank" href = "https://ultracom.fi/">Ultrapoint</a>
   - <a target = "_blank" href = "http://www.b-bark.com/?lang=fi">b-bark</a>
