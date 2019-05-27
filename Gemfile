@@ -10,11 +10,11 @@ source "https://rubygems.org"
 # Happy Jekylling!
 
 gem "github-pages", group: :jekyll_plugins
-gem 'rouge'
+# gem 'rouge'
 # gem "jekyll-remote-theme"
 # To upgrade, run `bundle update`.
 
-# gem "jekyll", "~> 3.5"
+# gem "jekyll", "~> 3.7"
 # gem "minimal-mistakes-jekyll"
 
 # The following plugins are automatically loaded by the theme-gem, IF USING gem "minimal-mistakes-jekyll":
@@ -27,14 +27,15 @@ gem 'rouge'
 
 # gem "jekyll-remote-theme"
 
-# If you have any plugins, put them here!
+# If you have any plugins outside from gem "github-pages", put them here!
+# runtime_dependency specs - See minimal-mistakes-jekyll.gemspec file
 group :jekyll_plugins do
-  #gem "jekyll-remote-theme"
-  gem "jekyll-paginate"
-  gem "jekyll-sitemap"
-  gem "jekyll-gist"
-  gem "jekyll-feed"
-  gem "jemoji"
-  gem "jekyll-data"
-  gem "jekyll-include-cache"
+#  #gem "jekyll-remote-theme"
+#  gem "jekyll-paginate", "~> 1.1"
+#  gem "jekyll-sitemap", "~> 1.2"
+#  gem "jekyll-gist", "~> 1.5"
+#  gem "jekyll-feed", "~> 0.10"
+#  gem "jemoji", "~> 0.10"
+#  gem "jekyll-data", "~> 1.0"
+  gem "jekyll-include-cache", "~> 0.1"
 end

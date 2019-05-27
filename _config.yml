@@ -244,6 +244,7 @@ plugins:
     - jemoji
     - jekyll-data
     - jekyll-include-cache
+    - rouge
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -254,6 +255,7 @@ whitelist:
   - jemoji
   - jekyll-data
   - jekyll-include-cache
+  - rouge
 
 # Archives
 #  Type
