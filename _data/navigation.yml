@@ -11,7 +11,7 @@ main:
   - title: "Yhteystiedot"
     url: /Yhteystiedot
   - title: "Arkisto"
-    url: /Arkisto
+    url: /year-archive
 
 # main navigation menu
 menu:
