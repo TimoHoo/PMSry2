@@ -11,7 +11,7 @@ header:
 sidebar:
     nav: "riihimenu"
 
-gallery:
+kalleria:
         - url:  /assets/images/6027613219e56e783e595503485f7aearesNet8_6.jpg
           image_path: assets/images/thumb/6027613219e56e783e595503485f7aearesNet8_6.jpg
           alt: "Riihi 1"
@@ -25,21 +25,23 @@ gallery:
           alt: "Riihi 3"
           title: "Riistariihi kuva 3"
 
-modified: 2019-05-26
-
+modified: 2019-05-31
 ---
+
 ## Asianmukainen tila riistalihan käsittelyyn
 
-Riistariihi on asianmukainen tila riistalihan käsittelyyn. Aiemmin seuran riistan ja hirvenlihan käsittely tapahtui ulkosalla luonnon ehdoilla ja tilapäisissä tiloissa. Lämpiminä syksyinä haasteena oli lihan pilaantumisvaara ja kovilla pakkasilla uhkasi jäätyminen.
+Riistariihi on riistalihan käsittelyn tarpeet täyttävä pienteurastamo. Se täyttää tilojensa puolesta myös luonnonvaraisen riistan lihan käsittelyn hygieniavaatimukset. Riistariihen on rakentanut Pudasjärven Metsästysseura ry, joka myös ylläpitää teurastamoa.
+
+Riistariihi on asianmukainen tila riistalihan käsittelyyn. Siinä on tilat riistan nylkemiseen, kylmiö ruhojen riiputtamiseen, leikkaamo ja pienempi kylmiö valmiiden tuotteiden säilyttämiseen.
+
+Aikaisemmin, ennen Riistariihen valmistumista vuonna 2006, seuran riistan ja hirvenlihan käsittely tapahtui ulkosalla luonnon ehdoilla tai tilapäisissä tiloissa. Lämpiminä syksyinä vaarana oli lihan pilaantuminen ja kovilla pakkasilla uhkasi jäätyminen.
+
 Nyt seuran käytössä on riistalihan käsittelyyn soveltuvat tilat koko metsästyskaudelle.
-
 Seuran oman käytön lisäksi myös muut alueen metsästysseurat voivat vuokrata tilaa riistalihan käsittelyyn.
-
-{% include gallery id="gallery" caption="Riistariihen kuvia (Avaa kuva klikkaamalla)" %}
 
 **Riistariihen käytön hinnasto** [Katso Hinnasto]({{ site.baseurl  }}{% link /assets/images/Hinnasto_LIITE.pdf %})
 
-Riistariihi on riistalihan käsittelyn tarpeet ja hygieniamääräykset täyttävä pienteurastamo. Sen on rakentanut Pudasjärven Metsästysseura ry, joka myös ylläpitää teurastamoa.
+{% include gallery id="kalleria" caption="Riistariihen kuvia (Avaa kuva klikkaamalla)" %}
 
 ## Varustus
 
