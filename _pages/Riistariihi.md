@@ -6,7 +6,7 @@ sitemap: true
 permalink: /Riistariihi/
 
 header:
-  overlay_image: /assets/images/Maisema_banner4.png
+  overlay_image: /assets/images/Maisema_banner2.png
   caption: "Kuva: Timo Hoo"
 sidebar:
     nav: "riihimenu"
@@ -25,7 +25,7 @@ kalleria:
           alt: "Riihi 3"
           title: "Riistariihi kuva 3"
 
-modified: 2019-05-31
+modified: 2019-07-16
 ---
 
 ## Asianmukainen tila riistalihan käsittelyyn
