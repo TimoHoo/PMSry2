@@ -37,7 +37,7 @@ menu:
     url: /Metsastys
     children:
       - title: "Metsästysalueet"
-        url: "https://goo.gl/oPVS4Y"
+        url: "https://kartta.paikkatietoikkuna.fi/published/fi/ceb8cdb4-efeb-4f38-9584-114116ed5d74"
       - title: "Oma riista -palvelu"
         url:  /Omariista
       - title: "Rauhoitukset 2018"
