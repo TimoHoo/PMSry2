@@ -10,7 +10,7 @@ Kartat Pudasjärven Metsästysseura ry:n metsästysalueista löytyvät sähköis
 <a target = "_blank" href = "http://pms.dy.fi"> http://pms.dy.fi </a>
 
 Klikkaa etusivun painikkeesta kohtaa "Kartat" jolloin pääset kartoille:
-<a target = "_blank" href = "https://kartta.paikkatietoikkuna.fi/published/fi/ceb8cdb4-efeb-4f38-9584-114116ed5d74"> https://kartta.paikkatietoikkuna.fi/published/fi/ceb8cdb4-efeb-4f38-9584-114116ed5d74 </a>
+<a target = "_blank" href = "http://dy.fi/arj"> http://dy.fi/arj </a>
 
 ## Oma Riista -palvelu
 
