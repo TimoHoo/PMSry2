@@ -3,7 +3,7 @@ title: "Riistariihen käyttö- ja hallintasääntö"
 excerpt: "Riistariihen käyttö- ja hallintasääntö"
 sidebar:
     nav: "seuramenu"
-modified: 2017-08-22
+modified: 2019-08-19
 ---
 1. Pudasjärven Metsästysseura ry:n hirviseurueen jäsenet, jotka ovat v.2005 päättäneet rakentaa Riistariihi-nimisen riistateurastamon ja ylläpitää sitä, hallinnoivat sitä yhtä suurin tasaosuuksin. Osuuden omistajalla on Riistariihen käyttöoikeus. Riistariihen omistaa Pudasjärven Metsästysseura ry.
 
@@ -32,7 +32,7 @@ Mikäli uusi osakas maksaa osuutensa osissa, on hänellä oikeus käyttää teur
 
 12. Tähän sääntöön tehtävät muutokset hyväksyy Pudasjärven Metsästysseura ry:n yleinen kokous. Riistariihen osakaslistaan tulevat muutokset käsittelee ja hyväksyy hirviseurue. Muutosta tulee kannattaa yli puolet Riistariihen osakkaista.
 
-## Liite: Lista Riistariihen osakkaista 22.8.2017
+## Liite: Lista Riistariihen osakkaista 19.8.2019
 
 > 1. A~~XXXXX~~ Eero, Pudasjärvi
 > 2. H~~XXXXX~~ Teuvo, Pudasjärvi
@@ -40,14 +40,14 @@ Mikäli uusi osakas maksaa osuutensa osissa, on hänellä oikeus käyttää teur
 > 4. H~~XXXXX~~ Viljo, Pudasjärvi
 > 5. H~~XXXXX~~ Timo, Oulu
 > 6. L~~XXXXX~~ Asko, Pudasjärvi
-> 7. L~~XXXXX~~ Mikko, Pudasjärvi
-> 8. L~~XXXXX~~ Jaakko, Pudasjärvi
-> 9. M~~XXXXX~~ Markku, Oulu
-> 10. M~~XXXXX~~ Timo, Pudasjärvi
-> 11. N~~XXXXXX~~ Hannu, Pudasjärvi
-> 12. P~~XXXXXX~~ Paavo, Oulu
-> 13. P~~XXXXXX~~ Lauri, Pudasjärvi
-> 14. T~~XXXXXX~~ Pentti, Pudasjärvi
-> 15. V~~XXXXXX~~ Pentti, Pudasjärvi
+> 7. L~~XXXXX~~ Pertti, Oulu
+> 8. L~~XXXXX~~ Mikko, Pudasjärvi
+> 9. L~~XXXXX~~ Jaakko, Pudasjärvi
+> 10. M~~XXXXX~~ Markku, Oulu
+> 11. M~~XXXXX~~ Timo, Pudasjärvi
+> 12. N~~XXXXXX~~ Hannu, Pudasjärvi
+> 13. P~~XXXXXX~~ Paavo, Pudasjärvi
+> 14. P~~XXXXXX~~ Lauri, Pudasjärvi
+> 15. T~~XXXXXX~~ Pentti, Pudasjärvi
 > 16. V~~XXXXXX~~ Pasi, Pudasjärvi
 > 17. W~~XXXXXX~~ Timo, Oulu

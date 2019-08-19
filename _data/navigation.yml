@@ -40,8 +40,8 @@ menu:
         url: "http://dy.fi/arj"
       - title: "Oma riista -palvelu"
         url:  /Omariista
-      - title: "Rauhoitukset 2018"
-        url: /Rauhoitukset2018
+      - title: "Rauhoitukset 2019"
+        url: /Rauhoitukset2019
 
 # Seuran sekä sääntöjen sivupalkki
 seuramenu:

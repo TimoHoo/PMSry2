@@ -4,7 +4,7 @@ excerpt: "Pudasjärven Metsästysseura ry hirvenmetsästyssääntö"
 sidebar:
     nav: "seuramenu"
 
-modified: 2018-08-19
+modified: 2019-08-19
 ---
 
 ## Yleistä
@@ -130,16 +130,18 @@ modified: 2018-08-19
 
 1. Jokainen hirviseurueen jäsen ja metsästysvieras on velvollinen perehtymään vuosittain vahvistettavaan metsästyssääntöön ja noudattamaan sitä.
 
-## LIITE Hyvät metsästäjätavat
+### LIITE Hyvät metsästäjätavat
 
-## LIITE Kartta metsästysalueista
+### LIITE Kartta metsästysalueista
 
-## LIITE Riistariihen käyttö- ja hallintasääntö
+### LIITE Riistariihen käyttö- ja hallintasääntö
 
-## Metsästyssäännön vuosittaiset vahvistuspäivät:
+### Metsästyssäännön vuosittaiset vahvistuspäivät:
 
 >< 20.2. 2016 >
 >
 >< 19.8. 2017 >
 >
 >< 18.8. 2018 >
+>
+>< 17.8. 2019 >
