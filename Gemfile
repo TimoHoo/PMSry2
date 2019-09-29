@@ -13,7 +13,7 @@ gem "github-pages", group: :jekyll_plugins
 # gem "jekyll-remote-theme"
 # To upgrade, run `bundle update`.
 
-# gem "jekyll", "~> 3.7"
+# gem "jekyll", ">= 3.6", "< 5.0"
 # gem "minimal-mistakes-jekyll"
 
 # The following plugins are automatically loaded by the theme-gem, IF USING gem "minimal-mistakes-jekyll":
@@ -36,5 +36,6 @@ group :jekyll_plugins do
 #  gem "jekyll-feed", "~> 0.10"
 #  gem "jemoji", "~> 0.10"
 #  gem "jekyll-data", "~> 1.0"
+  gem 'faraday', '~> 0.16.2'
   gem "jekyll-include-cache", "~> 0.1"
 end

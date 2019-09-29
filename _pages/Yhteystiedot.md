@@ -10,14 +10,12 @@ header:
   overlay_image: /assets/images/Maisema_banner2.png
   caption: "Kuva: Timo Hoo"
 
-modified: 2019-07-16
+modified: 2019-09-29
 ---
 
 {% include base_path %}
 
-[Pudasjärven Metsästysseura ry. yhteystiedot (Kauppalehti)][76d5a75e]
-
-  [76d5a75e]: http://www.kauppalehti.fi/yritykset/yritys/pudasjarven+metsastysseura+ry/20684606 "Seuran yhteystiedot"
+<a target = "_blank" href = "https://yhdistysrekisteri.prh.fi/basicinformation?businessId=2068460-6">Pudasjärven Metsästysseura r.y. perustiedot (Yhdistysrekisteri)</a>
 
 ## Johtokunta:
 
@@ -31,6 +29,6 @@ Vähäkuopus Pasi |  0400206765|  <kivari123@gmail.com>
 
 ## Jaokset:
 
-Ampumajaosto| Vähäkuopus Pasi|  0400206765|  <kivari123@gmail.com>
 Riistanhoitojaos| Pihlaja Paavo| 0500383264| <paavo.pihlaja@gmail.com>
+Ampumajaosto| Vähäkuopus Pasi|  0400206765|  <kivari123@gmail.com>
 Riistariihijaos| Nissi Hannu|  040-4146118|  <hannu.nissi@livo.fi>
