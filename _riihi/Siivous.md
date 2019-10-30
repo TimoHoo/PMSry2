@@ -4,10 +4,10 @@ excerpt: "Riistariihen siivousohje"
 sidebar:
     nav: "riihimenu"
 
-modified: 2016-12-18
+modified: 2019-10-30
 
 ---
-{% include toc icon="gears" title="Sisällysluettelo" %}
+{% include toc icon="cog" title="Sisällysluettelo" %}
 
 ## Puhdistamisen vaiheet
 

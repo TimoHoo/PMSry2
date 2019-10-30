@@ -4,13 +4,15 @@ excerpt: "Riistariihen omavalvontasuunnitelma"
 sidebar:
     nav: "riihimenu"
 
-modified: 2018-10-02
+modified: 2019-10-30
 
 ---
-{% include toc icon="gears" title="Sisällysluettelo" %}
+{% include toc icon="cog" title="Sisällysluettelo" %}
 
-Tämä omavalvontasuunnitelma on Riistariihen käyttäjien tarpeisiin laadittu versio laajemmasta suunnitelmasta. Laajempi suunnitelma oli tarkoitettu Riistariihen kaupallisen toimijan tarpeisiin.
-Tähän suunnitelmaan on sisällytetty metsästysseuran riistateurastamon oman valvonnan tarpeet hirven ja pienriistan lihan käsittelyyn.
+Tämä omavalvontasuunnitelma on laadittu Riistariihen käyttäjien tarpeisiin.
+Suunnitelmaan on sisällytetty metsästysseuran riistateurastamon oman valvonnan tarpeet hirven ja pienriistan lihan käsittelyssä.
+
+Riistariiheen voi tuoda vain ja ainoastaan elintarvikkeeksi eli ihmisruoaksi tarkoitettuja eläimiä, ei kolarieläimiä, eikä itsestään kuolleita eläimiä taikka sairaita eläimiä. Tämä mahdollistaa Riistariihessä käsiteltyjen elintarvikkeiden hygienian ja niiden käyttäjien turvallisuuden.
 
 ## Omavalvonnan tarkoitus
 
@@ -19,7 +21,9 @@ Omavalvonnan tarkoituksena on varmistaa riistalihasta tehtyjen elintarvikkeiden 
 - terveysvaarojen vähentäminen, estäminen tai poistaminen
 - omavalvonnan toimivuuden varmistaminen
 
-Elintarvikkeiden pilaantumisella tarkoitetaan elintarvikkeen maun, hajun, ulkonäön tai muiden ominaisuuksien muuttumista niin, että tuote ei enää kelpaa myytäväksi eikä nautittavaksi. Mikäli elintarvike on jossain tuotannon tai valmistuksen vaiheessa päässyt pilaantumaan tai likaantumaan tai siihen on joutunut vieraita aineita. Tällöin ei elintarviketta saa toimittaa kulutukseen eikä tarjoilla ruokana.
+Elintarvikkeiden pilaantumisella tarkoitetaan elintarvikkeen maun, hajun, ulkonäön tai muiden ominaisuuksien muuttumista niin, että tuote ei enää kelpaa myytäväksi eikä nautittavaksi.
+
+Mikäli elintarvike on jossain vaiheessa päässyt pilaantumaan tai likaantumaan tai siihen on joutunut vieraita aineita, sitä ei saa toimittaa kulutukseen eikä tarjoilla ruokana.
 
 ## Omavalvontaan liittyvä kirjanpito
 
@@ -90,14 +94,12 @@ Alla olevaan pohjapiirrokseen on merkitty materiaalivirrat teurastamossa. Pohjap
 5. WC
 6. Tekninen tila
 
-
 # Käsihygieniaohje
 
 Pidä käsien iho eheänä ja terveenä käyttämällä suojakäsineitä tarpeen mukaan ja hoitamalla käsien ihoa työpäivän päätteeksi sopivalla voiteella.
 Pidä kyntesi siisteinä ja lyhyeksi leikattuina.  Käsikorujen, ja rakennekynsien käyttö teurastamon työssä on ehdottomasti kielletty.
 
 **Katso liite** [käsien pesun ohje]({{ site.baseurl }}{% link _riihi/Kasienpesu.md %}).
-
 
 # Muut hygieniaohjeet
 
