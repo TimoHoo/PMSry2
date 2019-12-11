@@ -1,17 +1,17 @@
 ---
-title: "Seura"
+title: "Metsästysseura"
 excerpt: ".. harjoittaa järkiperäistä metsästystä"
 sitemap: true
 
 permalink: /Seura/
 
 header:
-  overlay_image: /assets/images/Maisema_banner2.png
+  overlay_image: /assets/images/Maisema_banner3b.png
   caption: "Kuva: Timo Hoo"
 sidebar:
    nav: "seuramenu"
 
-modified: 2019-09-29
+modified: 2019-12-11
 ---
 # Seuran esittely
 
