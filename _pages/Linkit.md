@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/Maisema_banner3b.png
   caption: "Kuva: Timo Hoo"
 
-modified: 2019-12-11
+modified: 2020-01-27
 ---
 
 ## Paikalliset
@@ -18,10 +18,12 @@ modified: 2019-12-11
 * <a target = "_blank" href = "https://riista.fi/riistahallinto/alueet-ja-toimipisteet/oulu/">Suomen riistakeskus, Oulun alue</a>
 * <a target = "_blank" href = "http://kipinanmetsastysseura.nettisivu.org/">Kipinän ms</a>
 * <a target = "_blank" href = "https://www.suoherra.fi/">Suoherran erätarinoita</a>
+* <a target = "_blank" href = "https://fi-fi.facebook.com/pudasjarvenampujat">Pudasjärven ampujat r.y.</a>
 * <a target = "_blank" href = "http://wwwi2.ymparisto.fi/i2/61/l611331001y/wqfi.html">Vedenkorkeus, Pudasjärvi Tuulisalmi</a>
 
 ## Muut
 
+* <a target = "_blank" href = "https://metsastajalehti.fi/">Metsästajälehti</a>
 * <a target = "_blank" href = "https://riista.fi/riistahallinto/yhteystiedot/yhteystietohaku/">Riistahallinnon yhteystiedot</a>
 * <a target = "_blank" href = "https://riista.fi/">Riistakeskus</a>
 * <a target = "_blank" href = "https://oma.riista.fi/">Oma riista</a>
