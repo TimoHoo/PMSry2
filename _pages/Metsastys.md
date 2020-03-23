@@ -10,9 +10,21 @@ header:
 sidebar:
      nav: "seuramenu"
 
-modified: 2019-12-11
+modified: 2020-03-20
 
 gallery:
+  - url: /assets/images/PMS2020_width768/pic_w768-5.jpg
+    image_path: /assets/images/PMS2020_width320/pic_w320-5.jpg
+    alt: "Kuva 2019-3"
+    title: "Jahtipäivän paras hetki"
+  - url: /assets/images/PMS2020_width768/pic_w768-1.jpg
+    image_path: /assets/images/PMS2020_width320/pic_w320-1.jpg
+    alt: "Kuva 2019-2"
+    title: "Riistariiheen kuorma lastattuna"
+  - url: /assets/images/PMS2020_width768/pic_w768-0.jpg
+    image_path: /assets/images/PMS2020_width320/pic_w320-0.jpg
+    alt: "Kuva 2019-1"
+    title: "Rockyn ensimmäinen Iijokivarressa"
   - url: /assets/images/PMS2016_width768/width768/IMG_20171014_145326.jpg
     image_path: /assets/images/PMS2016_width320/width320/IMG_20171014_145326.jpg
     alt: "Kuva 2017-1"
@@ -64,6 +76,6 @@ gallery:
 
 ---
 
-# Syksyn hirvenmetsästyksestä
+# Kuvakooste syksyn hirvijahdeista
 
-{% include gallery caption="Kuvia syksyn hirvijahdeista (Avaa kuva klikkaamalla)" %}
+{% include gallery caption="Avaa kuva klikkaamalla" %}
