@@ -6,10 +6,10 @@ sitemap: true
 permalink: /Linkit/
 
 header:
-  overlay_image: /assets/images/Maisema_banner3b.png
+  overlay_image: /assets/images/Maisema_banner4.png
   caption: "Kuva: Timo Hoo"
 
-modified: 2020-02-23
+modified: 2020-05-06
 ---
 
 ## Paikalliset
@@ -23,10 +23,10 @@ modified: 2020-02-23
 ## Muut
 
 * <a target = "_blank" href = "https://metsastajalehti.fi/">Metsästajälehti</a>
+* <a target = "_blank" href = "https://www.metsastajaliitto.fi/">Metsästäjäliitto</a>
 * <a target = "_blank" href = "https://riista.fi/riistahallinto/alueet-ja-toimipisteet/oulu/">Suomen riistakeskus, Oulun alue</a>
 * <a target = "_blank" href = "https://riista.fi/riistahallinto/yhteystiedot/yhteystietohaku/">Riistahallinnon yhteystiedot</a>
 * <a target = "_blank" href = "https://oma.riista.fi/">Oma riista</a>
-* <a target = "_blank" href = "https://www.metsastajaliitto.fi/">Metsästäjäliitto</a>
 * GPS paikantimet ja ohjelmat
   - <a target = "_blank" href = "https://www.tracker.fi/">Tracker</a>
   - <a target = "_blank" href = "https://ultracom.fi/">Ultrapoint</a>

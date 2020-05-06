@@ -6,12 +6,16 @@ sitemap: true
 permalink: /Seura/
 
 header:
-  overlay_image: /assets/images/Maisema_banner3b.png
+  overlay_image: /assets/images/Maisema_banner4.png
   caption: "Kuva: Timo Hoo"
+  actions:
+    - label: "Kartat"
+      url: "http://dy.fi/arj"
+
 sidebar:
    nav: "seuramenu"
 
-modified: 2020-01-02
+modified: 2020-05-06
 ---
 # Seuran esittely
 
