@@ -46,5 +46,4 @@ Riistariihen vastaavana on kaudella 2020-21 Pentti Timonen:
 
 Timonen Pentti |  050-4552070|  <pentimon@dnainternet.net>
 
-Tämä koskee sekä muiden seurojen riihen vuokrauskäyttöä että Riistariihen osakkaiden teurastamon käyttöä. Myös johtokunnan jäseniin voi olla yhteydessä, mikäli Pentti on estynyt. Katso kohdasta:
-<a target = "_blank" href = "/Yhteystiedot">"Yhteystiedot" </a>
+Tämä koskee sekä muiden seurojen riihen vuokrauskäyttöä että Riistariihen osakkaiden teurastamon käyttöä. Myös johtokunnan jäseniin voi olla yhteydessä, mikäli Pentti on estynyt. Katso kohdasta: "Yhteystiedot"
