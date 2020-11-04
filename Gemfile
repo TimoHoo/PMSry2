@@ -34,7 +34,7 @@ group :jekyll_plugins do
 #  gem "jekyll-sitemap", "~> 1.2"
 #  gem "jekyll-gist", "~> 1.5"
 #  gem "jekyll-feed", "~> 0.10"
-#  gem "jemoji", "~> 0.10"
+#  gem "jemoji", "~> 0.12"
 #  gem "jekyll-data", "~> 1.0"
   gem 'faraday', '~> 0.16.2'
   gem "jekyll-include-cache", "~> 0.1"
