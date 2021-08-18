@@ -13,7 +13,7 @@ tags:
     - seura
     - jäsenet
 
-modified: 2021-08-17
+modified: 2021-08-18
 ---
 Pudasjärven Metsästysseura ry vuosikokouksessa 14.8.2021 päätettiin tulevan kauden metsästyksen järjestelyistä, rauhoituksista ja saaliskiintiöistä.
 Hirviseurue järjestäytyi kesäkokouksen jälkeen.
@@ -31,10 +31,10 @@ Muilta osin metsästys- ja saalisrajoituksissa noudatetaan Pudasjärven RHY:n su
 # Hirvenmetsästys
 
 Hirvilupia on Pudasjärven yhteislupa-alueelle myönnetty 469 kappaletta.  
-Seuran hirvilupien määrä on alustavasti 10. Tällä lupamäärällä hirviporukka voi pyytää seitsemää aikuista hirveä ja kuutta vasaa.
+Seuran hirvilupien määrä on 10. Tällä lupamäärällä hirviporukka voi pyytää seitsemää aikuista hirveä ja kuutta vasaa.
 
 ## Vierasoikeusjärjestelmä
 
 Vierasoikeusjärjestelmästä Pudasjärven Metsästysseuran metsästysalueilla päätettiin seuraavasti:
 - Seuran jäsen  voi tuoda yhden metsästysvieraan viitenä päivänä metsästyskaudella.
-- Saatu saalis on poissa isännän kiintiöstä.
+- Saatu saalis on pois isännän kiintiöstä.
