@@ -1,10 +1,10 @@
 ---
-title: "Pudasjärven Metsästysseura ry:n Hirvenmetsästyssääntö"
+title: "Pudasjärven Metsästysseura ry:n hirvenmetsästyssääntö"
 excerpt: "Pudasjärven Metsästysseura ry hirvenmetsästyssääntö"
 sidebar:
     nav: "seuramenu"
 
-modified: 2020-09-02
+modified: 2021-08-19
 ---
 
 ## Yleistä
@@ -49,14 +49,14 @@ modified: 2020-09-02
 ## Metsästyksen aloittaminen ja metsästyskäytäntö
 
 1. Metsästyskauden aloittamisesta päätetään seurueen muodostuskokouksessa ja ajankohta tiedotetaan kokouksessa poissa olleille hirviseurueen jäsenille.
-2. Ns. yleisiä seurueen metsästyspäiviä ovat  hirvenmetsästyskauden  viikonvaihteet  ( la - su ). Muina päivinä tapahtuvasta metsästyksestä päättää metsästyksenjohtaja.
+2. Ns. yleisiä seurueen metsästyspäiviä ovat hirvenmetsästyskauden  viikonvaihteet  ( la - su ). Muina päivinä tapahtuvasta metsästyksestä päättää metsästyksenjohtaja.
 3. Hirvikoirien käytöstä ja käyttövuoroista sovitaan hyvissä ajoin etukäteen. Tarvittaessa metsästyksessä voidaan käyttää myös seurueen ulkopuolisia hirvikoiria ohjaajineen oman seurueen hirvikoirien lisäksi. Tulkintatilanteet ratkaisee metsästyksenjohtaja tasapuolisuutta noudattaen.
 
 ## Osallistumisvelvollisuus
 
 1. Hirviseurueen jäsenten velvollisuudesta osallistua metsästykseen ns. yleisinä metsästyspäivinä päätetään hirviseurueen vuosittaisessa muodostuskokouksessa. Seurueen jäsenet ovat velvollisia osallistumaan myös metsästykseen liittyviin oheistoimintoihin.
 2. Metsästykseen liittyviksi oheistoiminnoiksi näissä säännöissä luetaan saaliinkäsittelyyn liittyvät toimet, välinehuolto, saaliinkäsittelypaikan puhtaanapito ja hoito, passipaikkahuolto ampumalavoineen sekä peijaiset valmisteluineen.
-3. Vapaapäiviä yleisiksi sovituista metsästyspäivistä jäsenellä on muodostumiskokouksen mukaisesti metsästyskauden aikana 2 päivää. Ylimeneviä päiviä jäsen voi korvata metsästysseurueen erikseen yhteisesti sovituilla tavoilla (esim. osallistumalla tietyllä tuntimäärällä lihanleikkaukseen, osallistumalla viikolla metsästykseen, jolloin on saatu hirvi kaadetuksi jne. ).
+3. Vapaapäiviä yleisiksi sovituista metsästyspäivistä jäsenellä on muodostumiskokouksen mukaisesti metsästyskauden aikana 2 päivää. Ylimeneviä päiviä jäsen voi korvata metsästysseurueen erikseen yhteisesti sovituilla tavoilla (esim. osallistumalla tietyllä tuntimäärällä lihanleikkaukseen, osallistumalla viikolla metsästykseen, jolloin on saatu hirvi kaadetuksi jne.).
 4. Seurueen jäsenten metsästyksestä poissaolopäiviltä, jotka ylittävät 3. kohdan kiintiön, jäsen maksaa 0 € /  poissaolopäivä tai korvaa poissaolonsa järjestämällä tilalle toisen henkilön. Tuuraajan on oltava metsästysseuran jäsen tai hänen lähiomaisensa.
 
 ## Ampumataito ja saaliinkäsittely
@@ -147,3 +147,5 @@ modified: 2020-09-02
 >< 17.8. 2019 >
 >
 >< 15.8. 2020 >
+>
+>< 14.8. 2021 >
