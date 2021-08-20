@@ -1,6 +1,6 @@
 ---
 title: "Metsästystä"
-excerpt: ".. sekä riistanhoito- ja luonnonsuojelutoimintaa."
+excerpt: ".. kuvakooste syksyn hirvijahdeista."
 sitemap: true
 
 permalink: /Metsastys/
@@ -10,7 +10,7 @@ header:
 sidebar:
      nav: "seuramenu"
 
-modified: 2020-08-16
+modified: 2021-08-20
 
 gallery:
   - url: /assets/images/PMS2020_width768/pic_w768-5.jpg
@@ -28,7 +28,7 @@ gallery:
   - url: /assets/images/PMS2016_width768/width768/IMG_20171014_145326.jpg
     image_path: /assets/images/PMS2016_width320/width320/IMG_20171014_145326.jpg
     alt: "Kuva 2017-1"
-    title: "Hollonahossa 2017 'o':n kohdalla"
+    title: "Hollonahossa 'o':n kohdalla"
   - url: /assets/images/PMS2016_width768/width768/IMG_20171029_090706.jpg
     image_path: assets/images/PMS2016_width320/width320/IMG_20171029_090706.jpg
     alt: "Kuva 2017-2"
@@ -36,11 +36,11 @@ gallery:
   - url: /assets/images/PMS2016_width768/width768/IMG_20171118_130556.jpg
     image_path: assets/images/PMS2016_width320/width320/IMG_20171118_130556.jpg
     alt: "Kuva 2017-3"
-    title: "Jahti käynnissä 2017"
+    title: "Jahti käynnissä"
   - url:  /assets/images/PMS2016_width768/IMG_20161001_182431.jpg
     image_path: /assets/images/PMS2016_width320/IMG_20161001_182431.jpg
     alt: "Kuva 1"
-    title: "Kataislammella 2016"
+    title: "Kataislammella"
   - url:  /assets/images/PMS2016_width768/IMG_20161001_182718.jpg
     image_path: /assets/images/PMS2016_width320/IMG_20161001_182718.jpg
     alt: "Kuva 2"
@@ -60,7 +60,7 @@ gallery:
   - url:  /assets/images/PMS2016_width768/IMG_20161009_100620.jpg
     image_path: /assets/images/PMS2016_width320/IMG_20161009_100620.jpg
     alt: "Kuva 6"
-    title: "Heinäjärvellä 2016"
+    title: "Heinäjärvellä"
   - url:  /assets/images/PMS2016_width768/IMG_20161009_114808.jpg
     image_path: /assets/images/PMS2016_width320/IMG_20161009_114808.jpg
     alt: "Kuva 7"
@@ -75,7 +75,5 @@ gallery:
     title: "Missä se Rekku luuraa?"
 
 ---
-
-# Kuvakooste syksyn hirvijahdeista
 
 {% include gallery caption="Avaa kuva klikkaamalla" %}
