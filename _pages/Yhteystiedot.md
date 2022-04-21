@@ -7,10 +7,10 @@ permalink: /Yhteystiedot/
 sitemap: true
 
 header:
-  overlay_image: /assets/images/Maisema_banner2.png
+  overlay_image: /assets/images/Maisema_banner4.png
   caption: "Kuva: Timo Hoo"
 
-modified: 2021-08-19
+modified: 2022-04-21
 ---
 
 {% include base_path %}
@@ -21,10 +21,9 @@ modified: 2021-08-19
 
 Op Pudasjärvi | IBAN:	FI38 5360 0440 0404 45 | BIC:	OKOYFIHH
 
-
 ## Johtokunta:
 
-jäsen: | Ahonen Eero |  040-530 2536| <eero.ahonen@pp.inet.fi>
+jäsen: | Ahonen Eero |  040-530 2536| <eero.ahonen42@gmail.com>
 jäsen: | Haanela Teuvo | 0400-507277| <teuvo.haanela@gmail.com>
 jäsen: | Kokko Antti | 040-5917829| <suoherra@gmail.com>
 pj:| Märsy Timo |  040-5625651|  <timo.marsy60@gmail.com>
