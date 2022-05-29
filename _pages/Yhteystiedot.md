@@ -23,15 +23,16 @@ Op Pudasjärvi | IBAN:	FI38 5360 0440 0404 45 | BIC:	OKOYFIHH
 
 ## Johtokunta:
 
-jäsen: | Ahonen Eero |  040-530 2536| <eero.ahonen42@gmail.com>
 jäsen: | Haanela Teuvo | 0400-507277| <teuvo.haanela@gmail.com>
+jäsen: | Hanhela Jani | 041-4581784| <janskapomei@gmail.com>
 jäsen: | Kokko Antti | 040-5917829| <suoherra@gmail.com>
 pj:| Märsy Timo |  040-5625651|  <timo.marsy60@gmail.com>
 vpj: | Pihlaja Paavo | 0500-383264| <paavo.pihlaja@gmail.com>
 jäsen: | Sarajärvi Matti | 050-3061642 | <matti.sarajarvi@gmail.com>
-jäsen: | Timonen Pentti |  050-4552070|  <pentimon@dnainternet.net>
+jäsen: | Vähäkuopus Pasi | 0400-206765|  <kivari123@gmail.com>
 
 ## Jaostot:
 
-Riistanhoitojaosto:| Pihlaja Paavo| 0500383264| <paavo.pihlaja@gmail.com>
-Riistariihijaosto:| Timonen Pentti |  050-4552070|  <pentimon@dnainternet.net>
+Riistanhoitojaosto: - -
+
+Riistariihijaosto: - -
