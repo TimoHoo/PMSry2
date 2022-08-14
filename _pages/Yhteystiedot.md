@@ -10,12 +10,14 @@ header:
   overlay_image: /assets/images/Maisema_banner2.png
   caption: "Kuva: Timo Hoo"
 
-modified: 2022-07-19
+modified: 2022-08-14
 ---
 
 {% include base_path %}
 
-<a target = "_blank" href = "https://yhdistysrekisteri.prh.fi/basicinformation?businessId=2068460-6">Pudasjärven Metsästysseura ry. perustiedot (Yhdistysrekisteri)</a>
+## Perustiedot yhdistysrekisterissä:
+
+<a target = "_blank" href = "https://yhdistysrekisteri.prh.fi/basicinformation?businessId=2068460-6">Pudasjärven Metsästysseura ry. perustiedot</a>
 
 ## Seuran pankkiyhteys:
 

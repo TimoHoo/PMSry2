@@ -4,11 +4,10 @@ excerpt: "Riistariihen vuokraushinnasto"
 sidebar:
     nav: "riihimenu"
 
-modified: 2018-08-20
+modified: 2022-08-14
 
 ---
 
-
 ## Katso hinnasto oheisesta liitteestä
 
-[Riistariihen vuokraushinnasto]({{ "assets/images/Hinnasto_LIITE.pdf" | absolute_url }})
+[Riistariihen vuokraushinnasto]({{ "assets/documents/Hinnasto_LIITE_2022.pdf" | absolute_url }})
