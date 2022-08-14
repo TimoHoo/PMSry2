@@ -3,7 +3,7 @@ title: "Pudasjärven Metsästysseura ry metsästysalueet"
 excerpt: "PMS ry metsästysalueet"
 sidebar:
     nav: "seuramenu"
-modified: 2021-08-19
+modified: 2022-08-14
 ---
 Kartat Pudasjärven Metsästysseura ry:n metsästysalueista löytyvät sähköisenä seuran kotisivuilta osoitteesta:
 
@@ -14,7 +14,7 @@ Klikkaa etusivun painikkeesta kohtaa "Kartat" jolloin pääset kartoille:
 
 ## Oma Riista -palvelu
 
-Kartat Pudasjärven Metsästysseura ry:n metsästysalueista ylläpidetään sähköisenä Suomen riistakeskuksen ”oma.riista”-palveluun. Sieltä ne siirretään seuran nettisivuille. Useista koiratutka- ja karttasovelluksista mm. Tracker ja Ultrapoint on linkki "Oma riista" -palveluun.
+Kartat Pudasjärven Metsästysseura ry:n metsästysalueista ylläpidetään sähköisenä Suomen riistakeskuksen ”oma.riista”-palveluun. Sieltä ne siirretään seuran nettisivuille. Useista koiratutka- ja karttasovelluksista mm. Tracker ja Maastokartat on linkki "Oma riista" -palveluun.
 
 ”Oma riista”-palvelu löytyy nettiosoitteesta:
 <a target = "_blank" href = "https://oma.riista.fi/#/login"> oma.riista.fi/#/login</a>
@@ -33,8 +33,8 @@ Kirjaudu sisään seuran jäsenenä tai metsästyksenjohtajana ja katso kohta "A
 
 Seuran oma.riista -tunnukset koiratutka- ja karttapalveluihin ovat:
 
-- PMS pienriista 2021: **EEPNBK3K4J**
-- PMS hirvialue (Vaihtomaat): **5CPST5DP4W**
-- PMS hirvialue 2021 (Lupakartta): **CUE6EZKJ9B**
+- PMS pienriista 2022: **EEPNBK3K4J**
+- PMS hirvialue (Vaihtomaat): **7VLB2LNGKZ**
+- PMS hirvialue 2022 (Lupakartta): **EBXSA2CTXY**
 
 Pudasjärven Metsästysseuran yhteyshenkilö ”Oma riista” -palveluun on Timo Hostikka. Ilmoittakaa metsästäjänumero Timolle, niin voitte liittyä palveluun seuran jäsenenä --> <timo.hostikka@gmail.com>
