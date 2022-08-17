@@ -9,12 +9,12 @@ header:
   overlay_image: /assets/images/Maisema_banner2.png
   caption: "Kuva: Timo Hoo"
 
-modified: 2022-07-19
+modified: 2022-08-17
 ---
 
 ## Paikalliset
 
-* <a target = "_blank" href = "https://pudasjarven.rhy.fi/" >Pudasjärven riistanhoitoyhdistys</a>
+* <a target = "_blank" href = "https://www.asiakastieto.fi/yritykset/fi/pudasjarven-riistanhoitoyhdistys/08288897/rekisteritiedot" >Pudasjärven riistanhoitoyhdistys</a>
 * <a target = "_blank" href = "http://kipinanmetsastysseura.nettisivu.org/">Kipinän ms</a>
 * <a target = "_blank" href = "https://www.suoherra.fi/">Suoherran erätarinoita</a>
 * <a target = "_blank" href = "https://fi-fi.facebook.com/pudasjarvenampujat">Pudasjärven ampujat r.y.</a>

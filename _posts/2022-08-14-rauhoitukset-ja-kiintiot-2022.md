@@ -13,8 +13,9 @@ tags:
     - seura
     - jäsenet
 
-modified: 2022-08-14
+modified: 2022-08-17
 ---
+
 Pudasjärven Metsästysseura ry vuosikokouksessa 13.8.2022 päätettiin tulevan kauden metsästyksen järjestelyistä, rauhoituksista ja saaliskiintiöistä.
 Hirviseurue järjestäytyi kesäkokouksen jälkeen.
 
@@ -26,7 +27,7 @@ Entinen rauhoitusalue pienriistan metsästyksestä seuran alueilla on voimassa T
 
 Hiltulan alue Hilturannalla rauhoitetaan maanomistajien metsästykseen ensimmäisenä sorsastuspäivänä, 20.8.2022.
 
-Päätettiin rauhoittaa seuran alueilla kokonaan **haapana ja jouhisorsa** uhanalaisina vesilintulajeina.
+Päätettiin suosittaa pidättymään seuran alueilla **haapanan ja jouhisorsan** metsästämisestä, vaikka vesialueiden omistaja ja vesilintulupien myyjä ei näitä lajeja olekaan rauhoittanut. Pudasjärven metsästysseuran alueella haapana ja jouhisorsa ovat harvinaistuneet ja siten uhanalaisia vesilintulajeja.
 
 Muilta osin metsästys- ja saalisrajoituksissa sekä metsästyssuosituksissa noudatetaan Pudasjärven RHY:n linjausta kaudelle 2022.
 
