@@ -1,8 +1,8 @@
 ---
 permalink: /tags/
-title: "Arkisto avainsanoittain järjestettynä"
+title: "Arkisto järjestettynä avainsanojen mukaan"
 layout: tags
 author_profile: true
 
-modified: 2019-05-31
+modified: 2023-01-17
 ---
