@@ -18,7 +18,7 @@ github: [metadata]
 
 # update theme version to 4.16.3 2019-05-26
 # remote_theme: "mmistakes/minimal-mistakes@4.16.3"
-minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "mint" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "fi" # "en" (default)
@@ -27,7 +27,7 @@ title_separator          : "-"
 name                     : "Timo Hoo"
 description              : "Amazing website."
 url                      : "https://TimoHoo.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "TimoHoo/PMSry2" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   :  "/assets/images/Puu_500_300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
