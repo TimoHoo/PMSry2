@@ -7,10 +7,10 @@ permalink: /Yhteystiedot/
 sitemap: true
 
 header:
-  overlay_image: /assets/images/Maisema_banner2.png
+  overlay_image: /assets/images/Maisema_banner3b.png
   caption: "Kuva: Timo Hoo"
 
-modified: 2023-08-17
+modified: 2024-03-07
 ---
 
 {% include base_path %}
@@ -27,14 +27,13 @@ Op Pudasjärvi | IBAN:	FI38 5360 0440 0404 45 | BIC:	OKOYFIHH
 
 jäsen: | Haanela Teuvo | 0400-507277| <teuvo.haanela2@gmail.com>
 jäsen: | Hanhela Jani | 041-4581784| <janskapomei@gmail.com>
+jäsen: | Kainlauri Pasi | 040-5669228 | <kainlauri.pasi@gmail.com>
 jäsen: | Laakkonen Asko | 040-5773567| <asko.laakkonen14@gmail.com>
 pj:| Märsy Timo |  040-5625651|  <timo.marsy60@gmail.com>
-vpj: | Pihlaja Paavo | 0500-383264| <paavo.pihlaja@gmail.com>
 siht: | Sarajärvi Matti | 050-3061642 | <matti.sarajarvi@gmail.com>
 jäsen: | Vähäkuopus Pasi | 0400-206765|  <kivari123@gmail.com>
 
 ## Jaostot:
 
 Riistanhoitojaosto: -
-
 Riistariihijaosto: -
