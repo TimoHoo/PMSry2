@@ -10,7 +10,7 @@ header:
   overlay_image: /assets/images/Maisema_banner2.png
   caption: "Kuva: Timo Hoo"
 
-modified: 2024-07-17
+modified: 2024-08-18
 ---
 
 {% include base_path %}
@@ -33,7 +33,11 @@ pj:| Märsy Timo |  040-5625651|  <timo.marsy60@gmail.com>
 siht: | Sarajärvi Matti | 050-3061642 | <matti.sarajarvi@gmail.com>
 jäsen: | Vähäkuopus Pasi | 0400-206765|  <kivari123@gmail.com>
 
-## Jaostot:
+## Muut yhteystiedot:
+
+Riistariihen vastaava:| Pihlaja Paavo |  050-038 3264|  <paavo.pihlaja@gmail.com>
+Metsästyksen johtaja: | Haapea Pentti | 040-577 4541 | <pentti.haapea@netti.fi>
 
 Riistanhoitojaosto: -
+
 Riistariihijaosto: -

@@ -4,7 +4,7 @@ excerpt: "Pudasjärven Metsästysseura ry hirvenmetsästyssääntö"
 sidebar:
     nav: "seuramenu"
 
-modified: 2023-08-17
+modified: 2024-08-18
 ---
 
 ## Yleistä
@@ -153,3 +153,5 @@ modified: 2023-08-17
 >< 13.8. 2022 >
 >
 >< 12.8. 2023 >
+>
+>< 17.8. 2024 >

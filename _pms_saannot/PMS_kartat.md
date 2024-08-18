@@ -3,7 +3,7 @@ title: "Pudasjärven Metsästysseura ry metsästysalueet"
 excerpt: "PMS ry metsästysalueet"
 sidebar:
     nav: "seuramenu"
-modified: 2023-08-14
+modified: 2024-08-18
 ---
 Kartat Pudasjärven Metsästysseura ry:n metsästysalueista löytyvät sähköisenä seuran kotisivuilta osoitteesta:
 
@@ -33,9 +33,9 @@ Kirjaudu sisään seuran jäsenenä tai metsästyksenjohtajana ja katso kohta "A
 
 Seuran oma.riista -tunnukset koiratutka- ja karttapalveluihin ovat:
 
-- PMS pienriista 2023-24: **EEPNBK3K4J**
-- PMS rauhoitusalue (pienriista) **ELZ855U623**
-- PMS hirvialue (Vaihtomaat): **44RQAW3J8N**
-- PMS hirvialue 2023-24 (Lupakartta): **BZ7VYJVY64**
+- PMS pienriista 2024 - EEPNBK3K4J
+- PMS hirvialue 2024 (Vaihtomaat) - FT5BHM7M7W
+- PMS rauhoitusalue (Pienriista) - ELZ855U623
+- PMS hirvialue 2024 (Lupakartta) - D65QWP22G8
 
 Pudasjärven Metsästysseuran yhteyshenkilö ”Oma riista” -palveluun on Timo Hostikka. Ilmoittakaa metsästäjänumero Timolle, niin voitte liittyä palveluun seuran jäsenenä --> <timo.hostikka@gmail.com>

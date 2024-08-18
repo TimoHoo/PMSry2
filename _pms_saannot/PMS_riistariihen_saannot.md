@@ -3,7 +3,7 @@ title: "Riistariihen käyttö- ja hallintasääntö"
 excerpt: "Riistariihen käyttö- ja hallintasääntö"
 sidebar:
     nav: "seuramenu"
-modified: 2023-08-17
+modified: 2024-08-18
 ---
 1. Pudasjärven Metsästysseura ry:n hirviseurueen jäsenet, jotka ovat v.2005 päättäneet rakentaa Riistariihi-nimisen riistateurastamon ja ylläpitää sitä, hallinnoivat sitä yhtä suurin tasaosuuksin. Osuuden omistajilla on oikeus Riistariihen hallintaan. Riistariihen omistaa Pudasjärven Metsästysseura ry.
 
@@ -11,11 +11,11 @@ modified: 2023-08-17
 
 3. Riistariihen osuuksia oli rakennusvaiheessa yhteensä 17 kpl nimellisarvoltaan 2’500€ / kpl eli yhteensä 42’500€. Riistariihihankkeen aikana osakkaiden maksamat kustannukset olivat yhteensä 28’090€. Lisäksi osakkaat tekivät talkootöitä yhteensä 35’230€ arvosta.
 
-4. Riistariihen osakkaaksi voi liittyä Pudasjärven Metsästysseura ry:n hirviseurueen jäsen ilmoittamalla siitä metsästyksenjohtajalle ja maksamalla 2’500€ liittymismaksun. Tämän jälkeen uudella osakkaalla on samat oikeudet kuin muillakin osakkailla. Lista osakkaista on tämän dokumentin lopussa liitteessä.
-Liittymismaksu on suoritettava kertamaksuna tai enintään kymmenenä tasasuuruisena vuosittaisena eränä. Liittyjä katsotaan täysivaltaiseksi osakkaaksi hänen suoritettuaan liittymismaksun kokonaisuudessaan.
-Hirviseurueen jäsen, joka ei lähde osakkaaksi teurastamoon, on velvollinen maksamaan 1 / 10 liittymismaksusta vuosittain käyttömaksuna.
+4. Riistariihen osakkaaksi voi liittyä Pudasjärven Metsästysseura ry:n hirviseurueen jäsen ilmoittamalla siitä metsästyksenjohtajalle ja maksamalla 500€ liittymismaksun. Tämän jälkeen uudella osakkaalla on samat oikeudet kuin muillakin osakkailla. Lista osakkaista on tämän dokumentin lopussa liitteessä.
+Liittymismaksu on suoritettava kertamaksuna tai enintään viitenä tasasuuruisena vuosittaisena eränä. Liittyjä katsotaan täysivaltaiseksi osakkaaksi hänen suoritettuaan liittymismaksun kokonaisuudessaan.
+Hirviseurueen jäsen, joka ei lähde osakkaaksi teurastamoon, on velvollinen maksamaan 1 / 5 liittymismaksusta vuosittain käyttömaksuna.
 
-5. Uusi osakas, joka on suorittanut liittymismaksun kokonaisuudessaan, on oikeutettu hallinnoimaan teurastamoa samoin oikeuksin kuin muutkin osakkaat. Mikäli uusi osakas maksaa osuutensa osissa, on hänellä oikeudet voimassa niinä vuosina kun vuosiosuus on maksettu. Esim. suoritettu 1 / 10 maksu oikeuttaa Riistariihen hallintaan ensimmäisenä vuonna.
+5. Uusi osakas, joka on suorittanut liittymismaksun kokonaisuudessaan, on oikeutettu hallinnoimaan teurastamoa samoin oikeuksin kuin muutkin osakkaat. Mikäli uusi osakas maksaa osuutensa osissa, on hänellä oikeudet voimassa niinä vuosina kun vuosiosuus on maksettu. Esim. suoritettu 1 / 5 maksu oikeuttaa Riistariihen hallintaan ensimmäisenä vuonna.
 
 6. Pudasjärven Metsästysseura ry:n hirviseurueen jäsen voi luopua osuudestaan ilmoittamalla siitä metsästyksenjohtajalle. Osuuden voi myös siirtää toiselle Pudasjärven Metsästysseura ry:n hirviseurueen jäsenelle. Tällöin on esitettävä luovutuskirja, kauppakirja tms. todiste osuuden siirrosta. Vanhuuden tai muun syyn takia Riistariihen osuuden voi siirtää myös sellaiselle Pudasjärven Metsästysseura ry:n jäsenelle, joka ei ole liittynyt hirviseurueeseen. Tällöin osuuden omistajan ei tarvitse maksaa vuotuista käyttö- ja kunnossapitokustannusta, mutta osallistuu kuitenkin Riistariihen tontilla tapahtuviin investointeihin ja perusparannuksiin.
 
@@ -36,22 +36,24 @@ Tällaiseen muuhun vuokraukseen pitää laatia eri sopimus siihen tarkemmin liit
 
 
 
-## Riistariihen osakkaat 12.08.2023
+## Riistariihen osakkaat 17.08.2024
 
->    1. A~~XXXXX~~ Eero, Pudasjärvi
->    2. H~~XXXXX~~ Teuvo, Pudasjärvi
->    3. H~~XXXXX~~ Pentti, Oulu
->    4. H~~XXXXX~~ Viljo, Pudasjärvi
->    5. H~~XXXXX~~ Timo, Oulu
->    6. H~~XXXXX~~ Juha, Talma
->    7. K~~XXXXX~~ Pasi, Oulu
->    8. L~~XXXXX~~ Pertti, Oulu
->    9. L~~XXXXX~~ Asko, Pudasjärvi
->    10. L~~XXXXX~~ Mikko, Pudasjärvi
->    11. L~~XXXXX~~ Jaakko, Pudasjärvi
->    12. M~~XXXXX~~ Markku, Oulu
->    13. M~~XXXXX~~ Timo, Pudasjärvi
->    14. P~~XXXXX~~ Paavo, Pudasjärvi
->    15. T~~XXXXX~~ Pentti, Pudasjärvi
->    16. V~~XXXXX~~ Pasi, Pudasjärvi
->    17. W~~XXXXX~~ Timo, Oulu
+1. A~~xxxxx~~ Eero, Pudasjärvi
+2. H~~xxxxx~~ Teuvo, Pudasjärvi
+3. H~~xxxxx~~ Pentti, Oulu
+4. H~~xxxxx~~ Jani, Oulu
+5. H~~xxxxx~~ Viljo, Pudasjärvi
+6. H~~xxxxx~~ Timo, Oulu
+7. H~~xxxxx~~ Juha, Talma
+8. K~~xxxxx~~ Pasi, Oulu
+9. L~~xxxxx~~ Pertti, Oulu
+10. L~~xxxxx~~ Asko, Pudasjärvi
+11. L~~xxxxx~~ Mikko, Pudasjärvi
+12. L~~xxxxx~~ Jaakko, Pudasjärvi
+13. M~~xxxxx~~ Markku, Oulu
+14. M~~xxxxx~~ Timo, Pudasjärvi
+15. P~~xxxxx~~ Paavo, Pudasjärvi
+16. S~~xxxxx~~ Matti, Pudasjärvi
+17. T~~xxxxx~~ Pentti, Pudasjärvi
+18. V~~xxxxx~~ Pasi, Pudasjärvi
+19. W~~xxxxx~~ Timo, Kuusamo
