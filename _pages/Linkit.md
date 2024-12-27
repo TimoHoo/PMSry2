@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/Maisema_banner2.png
   caption: "Kuva: Timo Hoo"
 
-modified: 2024-07-17
+modified: 2024-12-27
 ---
 
 ## Paikalliset
@@ -28,8 +28,6 @@ modified: 2024-07-17
 * <a target = "_blank" href = "https://riista.fi/riistahallinto/yhteystiedot/yhteystietohaku/">Riistahallinnon yhteystiedot</a>
 * <a target = "_blank" href = "https://oma.riista.fi/">Oma riista</a>
 * GPS paikantimet ja ohjelmat
-  - <a target = "_blank" href = "https://www.tracker.fi/">Tracker</a>
-  - <a target = "_blank" href = "https://ultracom.fi/">Ultrapoint</a>
-  - <a target = "_blank" href = "http://www.b-bark.com/?lang=fi">b-bark</a>
+  - <a target = "_blank" href = "https://tracker-gps.com/fi-fi/">Tracker / Ultrapoint</a>
 * Tietopaketti hirvenmetsästyksen lainsäädännöstä
   - <a target = "_blank" href = "https://www.ulapland.fi/loader.aspx?id=e483f5bc-38c9-4825-b98b-f19467692205">Hirvenmetsästysoikeus - teos</a>
