@@ -3,6 +3,8 @@ title: "Oma riista -tunnukset 2025"
 
 date: "2025-08-06"
 
+permalink: /Omariistatunnukset2025/
+
 categories:
     - seura
 
@@ -10,7 +12,7 @@ tags:
     - seura
     - metsästys
 
-modified: 2025-08-06
+modified: 2025-08-17
 ---
 ## Oma riista -tunnukset seuran metsästysalueille
 
