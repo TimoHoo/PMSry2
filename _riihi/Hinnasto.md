@@ -4,10 +4,10 @@ excerpt: "Riistariihen vuokraushinnasto"
 sidebar:
     nav: "riihimenu"
 
-modified: 2024-08-18
+modified: 2025-08-17
 
 ---
 
-![Hinnasto-sivu1]({{"assets/images/Hinnasto-LIITE-2024.png" | absolute_url }}){: .align-center}
+![Hinnasto-sivu1]({{"assets/images/Hinnasto_LIITE_2025.png" | absolute_url }}){: .align-center}
 
-[Riistariihen vuokraushinnasto]({{ "assets/documents/Hinnasto_LIITE_2024.pdf" | absolute_url }})
+[Riistariihen vuokraushinnasto]({{ "assets/documents/Hinnasto_LIITE_2025.pdf" | absolute_url }})
