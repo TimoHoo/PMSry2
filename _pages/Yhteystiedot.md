@@ -37,10 +37,9 @@ siht: | Sarajärvi Matti | 050-3061642 | <matti.sarajarvi@gmail.com>
 
 ## Muut yhteystiedot:
 
-Riistariihijaosto:| Haanela Teuvo | 0400-507277| <teuvo.haanela2@gmail.com> ja
+Riistariihijaosto / Riistariihen vastaavat| Haanela Teuvo | 0400-507277| <teuvo.haanela2@gmail.com>
 | Piri Kaarlo | 040-5053835| 
 
-Riistariihen vastaava: | Pihlaja Paavo |  050-038 3264|  <paavo.pihlaja@gmail.com>
 Metsästyksen johtaja: | Haapea Pentti | 040-577 4541 | <pentti.haapea@netti.fi>
 
 Nuorisotoimivastaava: | Hostikka Timo | 040-5467084 | <timo.hostikka@gmail.com>
