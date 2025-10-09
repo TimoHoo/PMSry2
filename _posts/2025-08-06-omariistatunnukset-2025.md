@@ -12,7 +12,7 @@ tags:
     - seura
     - metsästys
 
-modified: 2025-08-17
+modified: 2025-10-08
 ---
 ## Oma riista -tunnukset seuran metsästysalueille
 
@@ -26,10 +26,13 @@ Kirjaudu Oma riista - palveluun seuran jäsenenä tai metsästyksenjohtajana ja 
 
 Tulevan jahtikauden Oma riista -tunnukset ovat:
 
-PMS hirvialue 2025 (Vaihtomaat): | **CSA9QS3RZB**
+PMS hirvialue 2025 (valtionomaat): | **KFZR9GDCFB**
+PMS hirvialue 2025 (lupakartta): | **3H2QH46ARS**
 PMS pienriista 2025: | **EEPNBK3K4J**
 PMS rauhoitusalue (pienriista): | **ELZ855U623**
-PMS hirvialue 2025 (lupakartta): | **3H2QH46ARS**
+
+Tämä Oma riista -tunnus **EI ole käytössä** kaudella 2025:
+- <del>PMS hirvialue 2025 (Vaihtomaat): **CSA9QS3RZB** </del>
 
 Edellä mainitut alueet löytyvät myös seuran nettisivuilta <http://pms.dy.fi>
 Katso kohdasta **"Kartat"**
