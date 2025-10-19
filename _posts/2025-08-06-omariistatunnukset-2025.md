@@ -12,7 +12,7 @@ tags:
     - seura
     - metsästys
 
-modified: 2025-10-08
+last_modified_at: 2025-10-08
 ---
 ## Oma riista -tunnukset seuran metsästysalueille
 
