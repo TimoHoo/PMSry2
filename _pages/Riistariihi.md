@@ -25,10 +25,10 @@ kalleria:
           alt: "Riihi 3"
           title: "Riistariihi kuva 3"
 
-modified: 2024-07-17
+last_modified_at: 2025-10-20
 ---
 
-## Asianmukainen tila riistalihan käsittelyyn
+# Tilat riistalihan käsittelyyn
 
 Riistariihi on riistalihan käsittelyn tarpeet täyttävä pienteurastamo. Se täyttää tilojensa puolesta myös luonnonvaraisen riistan lihan käsittelyn hygieniavaatimukset. Riistariihen on rakentanut Pudasjärven Metsästysseura ry, joka myös ylläpitää teurastamoa.
 
@@ -39,7 +39,7 @@ Aikaisemmin, ennen Riistariihen valmistumista vuonna 2006, seuran riistan ja hir
 Nyt seuran käytössä on riistalihan käsittelyyn soveltuvat tilat koko metsästyskaudelle.
 Seuran oman käytön lisäksi myös muut alueen metsästysseurat voivat vuokrata tilaa riistalihan käsittelyyn.
 
-**Riistariihen käytön hinnasto** [Katso Hinnasto]({{ site.baseurl  }}{% link /assets/images/Hinnasto_LIITE.pdf %})
+**Riistariihen käytön hinnasto** [Katso Hinnasto]({{ site.baseurl  }}{% link /assets/images/Hinnasto_LIITE_2025.png %})
 
 {% include gallery id="kalleria" caption="Riistariihen kuvia (Avaa kuva klikkaamalla)" %}
 

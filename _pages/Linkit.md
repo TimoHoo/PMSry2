@@ -12,7 +12,7 @@ header:
 modified: 2024-12-27
 ---
 
-## Paikalliset
+# Paikalliset
 
 * <a target = "_blank" href = "https://www.asiakastieto.fi/yritykset/fi/pudasjarven-riistanhoitoyhdistys/08288897/rekisteritiedot" >Pudasjärven riistanhoitoyhdistys</a>
 * <a target = "_blank" href = "http://kipinanmetsastysseura.nettisivu.org/">Kipinän ms</a>
@@ -20,7 +20,7 @@ modified: 2024-12-27
 * <a target = "_blank" href = "https://fi-fi.facebook.com/pudasjarvenampujat">Pudasjärven ampujat r.y.</a>
 * <a target = "_blank" href = "http://wwwi2.ymparisto.fi/i2/61/l611331001y/wqfi.html">Vedenkorkeus, Pudasjärvi Tuulisalmi</a>
 
-## Muut
+# Muut
 
 * <a target = "_blank" href = "https://metsastajalehti.fi/">Metsästajälehti</a>
 * <a target = "_blank" href = "https://www.metsastajaliitto.fi/">Metsästäjäliitto</a>

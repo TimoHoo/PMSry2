@@ -23,7 +23,7 @@ menu:
       - title: "Säännöt"
         url: /Seura
       - title: "Johtokunta"
-        url: /Yhteystiedot
+        url: /Yhteystiedot/#johtokunta
   - title: "Riistariihi"
     url: /Riistariihi
     children:
