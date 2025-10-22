@@ -25,7 +25,7 @@ kalleria:
           alt: "Riihi 3"
           title: "Riistariihi kuva 3"
 
-last_modified_at: 2025-10-20
+last_modified_at: 2025-10-22
 ---
 
 # Tilat riistalihan käsittelyyn
@@ -39,7 +39,7 @@ Aikaisemmin, ennen Riistariihen valmistumista vuonna 2006, seuran riistan ja hir
 Nyt seuran käytössä on riistalihan käsittelyyn soveltuvat tilat koko metsästyskaudelle.
 Seuran oman käytön lisäksi myös muut alueen metsästysseurat voivat vuokrata tilaa riistalihan käsittelyyn.
 
-**Riistariihen käytön hinnasto** [Katso Hinnasto]({{ site.baseurl  }}{% link /assets/images/Hinnasto_LIITE_2025.png %})
+**Riistariihen käytön hinnasto** [Katso Hinnasto -linkki]({{ site.baseurl }}{% link _riihi/Hinnasto.md %})  
 
 {% include gallery id="kalleria" caption="Riistariihen kuvia (Avaa kuva klikkaamalla)" %}
 

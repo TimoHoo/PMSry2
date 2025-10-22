@@ -30,7 +30,7 @@ menu:
       - title: "Omavalvontasuunnitelma"
         url: /riihi/Riihi
       - title: "Hinnasto"
-        url: /riihi/Hinnasto
+        url: /Hinnasto
       - title: "Yhteystiedot"
         url: /Yhteystiedot
   - title: "Metsästys"
@@ -88,6 +88,6 @@ riihimenu:
       - title: "Lähdeluettelo"
         url: /riihi/Lahteet
       - title: "Hinnasto"
-        url: /riihi/Hinnasto
+        url: /Hinnasto
   - title: "Etusivulle"
     url: /
