@@ -8,7 +8,7 @@ main:
     url: /Riistariihi
   - title: "Linkit"
     url: /Linkit
-  - title: "Yhteystiedot"
+  - title: "Seuran yhteystiedot"
     url: /Yhteystiedot
   - title: "Arkisto"
     url: /year-archive
@@ -27,12 +27,10 @@ menu:
   - title: "Riistariihi"
     url: /Riistariihi
     children:
-      - title: "Omavalvontasuunnitelma"
-        url: /riihi/Riihi
       - title: "Hinnasto"
         url: /Hinnasto
-      - title: "Yhteystiedot"
-        url: /Yhteystiedot
+      - title: "Omavalvontasuunnitelma"
+        url: /riihi/Riihi
   - title: "Metsästys"
     url: /Metsastys
     children:
@@ -41,7 +39,7 @@ menu:
       - title: "Oma riista -palvelu"
         url:  /Omariista
       - title: "Oma riista tunnukset"
-        url: /Omariistatunnukset2025/
+        url: /Omariistatunnukset2026/
       - title: "Rauhoitukset 2025"
         url: /Rauhoitukset2025
       
