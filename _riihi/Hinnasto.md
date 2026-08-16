@@ -6,14 +6,9 @@ sidebar:
 
 permalink: /Hinnasto/
 
-last_modified_at: 2025-10-22
+last_modified_at: 2026-08-16
 ---
 
-![Hinnasto-sivu1]({{"assets/images/Hinnasto_LIITE_2025.png" | absolute_url }}){: .align-center}
+![Hinnasto-sivu1]({{"assets/images/Hinnasto_LIITE_2026.png" | absolute_url }}){: .align-center}
 
-[Riistariihen vuokraushinnasto - pdf]({{ "assets/documents/Hinnasto_LIITE_2025.pdf" | absolute_url }})
-
-<!--- Kommentti
-[Riistariihen vuokraushinnasto - link]({{base.url}} {% link /assets/documents/Hinnasto_LIITE_2025.pdf %} )
-
----> 
+[Riistariihen vuokraushinnasto - pdf]({{ "assets/documents/Hinnasto_LIITE_2026.pdf" | absolute_url }})
