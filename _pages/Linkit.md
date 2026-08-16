@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/Maisema_banner2.png
   caption: "Kuva: Timo Hoo"
 
-last_modified_at: 2025-11-02T14:05:34-05:00
+last_modified_at: 2026-08-16T13:57:34-05:00
 ---
 
 # Paikalliset
