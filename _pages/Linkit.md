@@ -14,8 +14,9 @@ last_modified_at: 2025-11-02T14:05:34-05:00
 
 # Paikalliset
 
-* <a target = "_blank" href = "https://www.asiakastieto.fi/yritykset/fi/pudasjarven-riistanhoitoyhdistys/08288897/rekisteritiedot" >Pudasjärven riistanhoitoyhdistys</a>
+* <a target = "_blank" href = "https://riista.fi/yhteystiedot/?area=250&rhy=271&contact_type=rhy" >Pudasjärven riistanhoitoyhdistys</a>
 * <a target = "_blank" href = "http://kipinanmetsastysseura.nettisivu.org/">Kipinän ms</a>
+* <a target = "_blank" href = "https://yli-siuruanms.fi/index.php">Yli-Siuruan ms</a>
 * <a target = "_blank" href = "https://www.suoherra.fi/">Suoherran erätarinoita</a>
 * <a target = "_blank" href = "https://fi-fi.facebook.com/pudasjarvenampujat">Pudasjärven ampujat r.y.</a>
 * <a target = "_blank" href = "http://wwwi2.ymparisto.fi/i2/61/l611331001y/wqfi.html">Vedenkorkeus, Pudasjärvi Tuulisalmi</a>
@@ -24,11 +25,10 @@ last_modified_at: 2025-11-02T14:05:34-05:00
 
 * <a target = "_blank" href = "https://metsastajalehti.fi/">Metsästajälehti</a>
 * <a target = "_blank" href = "https://www.metsastajaliitto.fi/">Metsästäjäliitto</a>
-* <a target = "_blank" href = "https://riista.fi/riistahallinto/alueet-ja-toimipisteet/oulu/">Suomen riistakeskus, Oulun alue</a>
-* <a target = "_blank" href = "https://riista.fi/riistahallinto/yhteystiedot/yhteystietohaku/">Riistahallinnon yhteystiedot</a>
+* <a target = "_blank" href = "https://riista.fi/yhteystiedot/?area=250&contact_type=rka">Riistahallinnon yhteystiedot, Oulu</a>
 * <a target = "_blank" href = "https://oma.riista.fi/">Oma riista</a>
 * GPS paikantimet ja ohjelmat
   - <a target = "_blank" href = "https://tracker-gps.com/fi-fi/">Tracker</a>
   - <a target = "_blank" href = "https://wehunt.app/fi/wehunt-x/">Wehunt X</a>
-  - <a target = "_blank" href = "https://wehunt.app/fi/">Wehunt</a>
+
   
