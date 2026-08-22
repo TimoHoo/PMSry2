@@ -10,7 +10,7 @@ header:
   overlay_image: /assets/images/Maisema_banner2.png
   caption: "Kuva: Timo Hoo"
 
-last_modified_at: 2026-03-09
+last_modified_at: 2026-08-22
 ---
 
 {% include base_path %}
@@ -38,7 +38,7 @@ siht: | Sarajärvi Matti | 050-3061642 | <matti.sarajarvi@gmail.com>
 ## Muut yhteystiedot:
 
 Riistariihijaosto / Riistariihen vastaavat| Haanela Teuvo | 0400-507277| <teuvo.haanela2@gmail.com>
-| Piri Kaarlo | 040-5053835| 
+| Piri Kaarlo | 040-5053835| <piri.kaarlo@gmail.com>
 
 Metsästyksen johtaja: | Haapea Pentti | 040-577 4541 | <pentti.haapea@netti.fi>
 
