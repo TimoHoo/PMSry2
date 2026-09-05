@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/Maisema_banner2.png
   caption: "Kuva: Timo Hoo"
 
-last_modified_at: 2026-08-16T13:57:34-05:00
+last_modified_at: 2026-09-05T13:57:34-05:00
 ---
 
 # Paikalliset
@@ -19,7 +19,7 @@ last_modified_at: 2026-08-16T13:57:34-05:00
 * <a target = "_blank" href = "https://yli-siuruanms.fi/index.php">Yli-Siuruan ms</a>
 * <a target = "_blank" href = "https://www.suoherra.fi/">Suoherran erätarinoita</a>
 * <a target = "_blank" href = "https://fi-fi.facebook.com/pudasjarvenampujat">Pudasjärven ampujat r.y.</a>
-* <a target = "_blank" href = "http://wwwi2.ymparisto.fi/i2/61/l611331001y/wqfi.html">Vedenkorkeus, Pudasjärvi Tuulisalmi</a>
+* <a target = "_blank" href = "https://wwwi2.ymparisto.fi/i2/61/l611331001y/wqfi.html">Vedenkorkeus, Pudasjärvi Tuulisalmi</a>
 
 # Muut
 
