@@ -9,7 +9,8 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-gem 'github-pages'
+gem 'github-pages', '>= 233'
+# gem 'github-pages'
 
 # gem "github-pages"
 # gem "github-pages", group: :jekyll_plugins
@@ -40,3 +41,8 @@ group :jekyll_plugins do
 #  gem 'faraday', '~> 0.16.2'
 #  gem "jekyll-include-cache", "~> 0.1"
 end
+
+# NEW
+gem "csv", ">= 3.3"
+gem "bigdecimal", ">= 4.1"
+gem "faraday-retry", ">= 2.4"
